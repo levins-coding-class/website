@@ -29,7 +29,7 @@ Viele Kinder-Programmierkurse nutzen visuelle Programmierumgebungen wie Scratch.
 - Viele geben auf, weil sie wieder "von vorne" anfangen müssen
 - Professionelle Entwicklung verwendet **keine** visuellen Block-Systeme
 
-**Mein Ansatz:** Ich starte direkt mit den echten Tools, die professionelle Entwickler täglich nutzen. Das mag am Anfang etwas steiler sein, aber dein Kind lernt von Anfang an die richtigen Werkzeuge und Arbeitsweisen. Keine Zeit wird verschwendet, alles Gelernte ist direkt auf echte Softwareentwicklung übertragbar.
+**Mein Ansatz:** Ich starte direkt mit den echten Tools, die professionelle Entwickler täglich nutzen. Die Lernkurve mag am Anfang etwas flacher sein (höhere Anfangskomplexität), aber dein Kind lernt von Anfang an die richtigen Werkzeuge und Arbeitsweisen. Keine Zeit wird verschwendet, alles Gelernte ist direkt auf echte Softwareentwicklung übertragbar.
 
 ## Kursformat
 
