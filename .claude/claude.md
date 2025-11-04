@@ -184,3 +184,39 @@ Speichere deinen Benutzernamen und dein Passwort gut ab!
 - All internal links are `/page-name`, not `/docs/page-name`
 - The homepage is `docs/intro.md` with `slug: /`
 - Blog is disabled, don't create blog content
+
+## Pre-Push Checklist
+
+**CRITICAL: Before every `git push`, ALWAYS follow these steps:**
+
+1. **Pull and merge remote changes:**
+   ```bash
+   git fetch origin
+   git pull origin main --no-rebase --no-edit
+   ```
+
+2. **Install dependencies (if package.json changed):**
+   ```bash
+   npm install
+   ```
+
+3. **Test the build:**
+   ```bash
+   npm run build
+   ```
+   - Build MUST succeed without errors
+   - Fix any broken links or build errors before pushing
+   - Warnings about broken anchors must be fixed
+
+4. **Commit fixes if needed:**
+   ```bash
+   git add .
+   git commit -m "Fix build errors"
+   ```
+
+5. **Only then push:**
+   ```bash
+   git push -u origin <branch-name>
+   ```
+
+**Remember:** Never push broken builds! The build must always succeed.

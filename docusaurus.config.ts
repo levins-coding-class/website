@@ -113,8 +113,17 @@ const config: Config = {
             },
           ],
         },
+        {
+          title: 'Rechtliches',
+          items: [
+            {
+              label: 'Impressum',
+              to: '/impressum',
+            },
+          ],
+        },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Coding-Kurs für Kinder. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Levin Keller. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

@@ -28,3 +28,10 @@ Website läuft auf `http://localhost:8080`
 ## Deployment
 
 Standard Docusaurus Deployment-Methoden werden unterstützt (GitHub Pages, Vercel, Netlify, etc.).
+
+## Lizenzen
+
+Dieses Projekt ist Open Source:
+
+- **Redaktionelle Inhalte** (Dokumentation, Kursmaterialien): [CC BY 4.0](LICENSE-CONTENT)
+- **Code**: [MIT License](LICENSE)
