@@ -27,6 +27,20 @@ Die Inhalte dieser Seiten wurden mit größter Sorgfalt erstellt. Für die Richt
 
 Mein Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte ich keinen Einfluss habe. Deshalb kann ich für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.
 
-## Urheberrecht
+## Lizenzen und Open Source
 
-Die durch mich erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen meiner schriftlichen Zustimmung.
+Dieses Projekt ist Open Source und steht unter verschiedenen Lizenzen:
+
+### Redaktionelle Inhalte
+Alle Kursinhalte, Dokumentationen und redaktionellen Texte sind lizenziert unter der **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+Das bedeutet: Du darfst die Inhalte frei verwenden, teilen und anpassen, auch kommerziell, solange du angemessene Quellenangaben machst.
+
+Mehr Informationen: [CC BY 4.0 Lizenz](https://creativecommons.org/licenses/by/4.0/)
+
+### Code
+Der gesamte Quellcode dieses Projekts ist lizenziert unter der **MIT License**.
+
+Das bedeutet: Du darfst den Code frei verwenden, modifizieren und verteilen, auch kommerziell.
+
+Vollständige Lizenztexte findest du im [GitHub Repository](https://github.com/levino/coding-class).
