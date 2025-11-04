@@ -2,46 +2,118 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Willkommen beim Coding-Kurs! 👋
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Herzlich willkommen beim **Coding-Kurs für Kinder**! Hier lernst du, wie man **richtig programmiert** - mit den gleichen Tools, die echte Entwickler jeden Tag benutzen.
 
-## Getting Started
+## 🎯 Was erwartet dich?
 
-Get started by **creating a new site**.
+In diesem Kurs lernst du nicht nur irgendeine Programmiersprache. Du lernst:
+- **Wie Entwickler wirklich arbeiten** (mit Git, GitHub, VS Code)
+- **Echte Projekte erstellen** (keine Spielzeug-Beispiele!)
+- **Selbstständig Probleme lösen**
+- **Mit anderen zusammenarbeiten**
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## 🚀 Los geht's!
 
-### What you'll need
+### Für Schüler:innen
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Du bist neu hier? Super! Schau dir diese Seiten an:
 
-## Generate a new site
+1. **[Kursinhalte](/docs/kurs-inhalte)** - Was lernst du im Kurs?
+2. **[Erste Schritte](#erste-schritte)** - Wie geht es los?
 
-Generate a new Docusaurus site using the **classic template**.
+### Für Eltern
 
-The classic template will automatically be added to your project after you run the command:
+Möchten Sie mehr über den Kurs erfahren?
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- **[Info für Eltern](/docs/info-fuer-eltern)** - Alle Details zu Format, Hardware und Inhalten
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## 🛠️ Erste Schritte
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Bevor du richtig loslegen kannst, brauchst du ein paar Dinge:
 
-## Start your site
+### 1. Hardware ✅
+- Ein Computer mit **Linux**, **macOS** oder **Windows mit WSL**
+- (Empfohlen: **Raspberry Pi 500** mit Monitor)
 
-Run the development server:
+### 2. Software ✅
+Diese Programme installieren wir zusammen beim Onboarding:
+- **VS Code** - Deine Entwicklungsumgebung
+- **Git** - Für Versionskontrolle
+- **Typst** - Zum Erstellen von PDF-Dokumenten
 
-```bash
-cd my-website
-npm run start
-```
+### 3. GitHub Account ✅
+Du brauchst einen **kostenlosen GitHub-Account**:
+- Gehe zu [github.com](https://github.com)
+- Klicke auf "Sign up"
+- Folge den Anweisungen
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+**Wichtig:** Speichere deinen Benutzernamen und dein Passwort gut ab!
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+## 📚 Wie funktioniert der Kurs?
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### Asynchrones Lernen
+Du arbeitest **in deinem eigenen Tempo**:
+- Keine festen Unterrichtszeiten
+- Keine Hausaufgaben-Deadlines
+- Lerne, wann es dir passt!
+
+### Hilfe bekommen
+Wenn du nicht weiterkommst:
+1. **GitHub Issues** - Stelle deine Frage als Issue
+2. **GitHub Discussions** - Diskutiere mit anderen
+3. **Video-Calls** - Bei größeren Problemen
+
+### Gruppen-Sessions
+Regelmäßig treffen sich alle Schüler:innen:
+- Zeige, was du gemacht hast
+- Lerne von anderen
+- Hab Spaß zusammen!
+
+## 🎓 Was lernst du?
+
+### Phase 1: Grundlagen (Start hier!)
+- **Git & GitHub** - Die wichtigsten Tools überhaupt
+- **VS Code** - Deine Entwicklungsumgebung
+- **Typst** - Schöne Dokumente mit Code erstellen
+
+➡️ **[Mehr zu den Kursinhalten](/docs/kurs-inhalte)**
+
+### Phase 2: Web-Entwicklung (Später)
+- **React** - Websites programmieren
+- **JSON & YAML** - Datenformate
+- **Astro** - Moderne Website-Entwicklung
+
+## 💡 Wichtig zu wissen
+
+### Dein Tempo ist perfekt
+- 🐌 **Langsam lernen?** Super! Nimm dir die Zeit, die du brauchst.
+- 🚀 **Schnell lernen?** Toll! Du kannst schnell voranschreiten.
+- 😊 **Mittendrin?** Perfekt! Dein Tempo ist genau richtig.
+
+### Fehler sind gut!
+Alle Entwickler machen Fehler - jeden Tag! Das ist normal und wichtig fürs Lernen.
+
+### Fragen stellen ist wichtig!
+Es gibt **keine dummen Fragen**. Wenn du etwas nicht verstehst, frag nach!
+
+## 🎉 Bereit loszulegen?
+
+1. ✅ Stelle sicher, dass dein Computer bereit ist
+2. ✅ Erstelle einen GitHub-Account
+3. ✅ Nimm am Onboarding teil
+4. ✅ Erstelle dein erstes Projekt!
+
+## 📞 Hilfe & Support
+
+### Für Schüler:innen
+- **GitHub Issues** - [Hier Issues erstellen](https://github.com/levino/coding-class/issues)
+- **GitHub Discussions** - [Hier diskutieren](https://github.com/levino/coding-class/discussions)
+
+### Für Eltern
+- Siehe [Info für Eltern](/docs/info-fuer-eltern) für Kontaktmöglichkeiten
+
+---
+
+**Viel Spaß beim Programmieren lernen! Let's code! 💻✨**

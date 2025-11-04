@@ -1,41 +1,78 @@
-# Website
+# Coding-Kurs für Kinder
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Willkommen beim Coding-Kurs! Dieses Repository enthält die Kursdokumentation und alle Lernmaterialien für den Softwareentwicklungs-Kurs für Kinder.
 
-## Installation
+## 🎯 Über den Kurs
+
+Dieser Kurs vermittelt Kindern die Grundlagen der Softwareentwicklung mit professionellen Tools und modernen Methoden. Der Unterricht findet remote und hauptsächlich asynchron statt.
+
+### Lerninhalte
+
+**Phase 1: Grundlagen**
+- Git & GitHub
+- VS Code
+- Typst (Markup-Language für PDF-Erstellung)
+
+**Phase 2: Web-Entwicklung** (für Fortgeschrittene)
+- React
+- Frontend State Management
+- YAML, JSON, Markdown
+- Astro
+
+## 📚 Dokumentation
+
+Die vollständige Kursdokumentation ist als Website verfügbar und enthält:
+
+- **[Kursinhalte](docs/kurs-inhalte.md)** - Detaillierte Übersicht aller Lerninhalte
+- **[Info für Eltern](docs/info-fuer-eltern.md)** - Hardware-Anforderungen, Kursformat und FAQ
+- **[Intro](docs/intro.md)** - Erste Schritte und Willkommen
+
+## 🚀 Website lokal starten
+
+Diese Website wurde mit [Docusaurus](https://docusaurus.io/) erstellt.
+
+### Installation
 
 ```bash
-yarn
+npm install
 ```
 
-## Local Development
+### Entwicklungsserver starten
 
 ```bash
-yarn start
+npm start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Dieser Befehl startet einen lokalen Entwicklungsserver und öffnet ein Browser-Fenster. Die meisten Änderungen werden live übernommen, ohne den Server neu zu starten.
 
-## Build
+### Build
 
 ```bash
-yarn build
+npm run build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Dieser Befehl generiert statische Inhalte im `build`-Verzeichnis, die mit jedem Static-Hosting-Service bereitgestellt werden können.
 
-## Deployment
+### Deployment
 
-Using SSH:
+Mit GitHub Pages:
 
 ```bash
-USE_SSH=true yarn deploy
+GIT_USER=<Your GitHub username> npm run deploy
 ```
 
-Not using SSH:
+## 💻 Hardware-Anforderungen
 
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
+Für die Kursteilnahme wird benötigt:
+- **Unix-basiertes OS** (Linux, macOS oder Windows mit WSL)
+- **Empfohlen:** Raspberry Pi 500 mit Monitor
+- **Fernzugriff** für technischen Support
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+## 📞 Kontakt & Support
+
+- **GitHub Issues:** [Issues erstellen](https://github.com/levino/coding-class/issues)
+- **GitHub Discussions:** [Diskussionen](https://github.com/levino/coding-class/discussions)
+
+## 📄 Lizenz
+
+Dieses Projekt ist für Bildungszwecke erstellt.
