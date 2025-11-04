@@ -34,8 +34,9 @@ Git ist wie eine Zeitmaschine für deinen Code! Du kannst:
 - Issues erstellen (um Hilfe zu bitten oder Bugs zu melden)
 - Discussions nutzen (um mit anderen zu diskutieren)
 
-**Warum ist das wichtig?**
+:::tip Warum ist das wichtig?
 Alle Programmierer verwenden Git! Es ist eines der wichtigsten Tools überhaupt.
+:::
 
 ### 2. VS Code 💻
 
@@ -48,8 +49,9 @@ VS Code ist deine **Entwicklungsumgebung** (IDE). Das ist wie Microsoft Word, ab
 - Code schreiben mit Hilfe von automatischer Vervollständigung
 - Mehrere Dateien gleichzeitig bearbeiten
 
-**Warum ist das cool?**
+:::tip Warum ist das cool?
 VS Code ist kostenlos und wird von Millionen Programmierern weltweit verwendet!
+:::
 
 ### 3. Typst 📄
 
@@ -63,10 +65,12 @@ Typst ist wie Word, aber du schreibst **Code**, um schöne Dokumente zu erstelle
 - Bilder und Tabellen einfügen
 - Dein eigenes Styling erstellen
 
-**Was ist eine Markup-Language?**
+:::info Was ist eine Markup-Language?
 Statt auf "Fett"-Button zu klicken, schreibst du z.B. `*fett*`. Der Computer macht dann daraus fette Schrift!
+:::
 
-**Cooles Beispiel:**
+:::info Cooles Beispiel
+
 ```typst
 = Mein erstes Dokument
 
@@ -81,12 +85,14 @@ Hier ist eine Liste:
 ```
 
 Das wird dann zu einem schönen PDF!
+:::
 
-**Warum Typst und nicht Word?**
+:::tip Warum Typst und nicht Word?
 - Du lernst das Prinzip von Markup-Languages (super wichtig!)
 - Dein Dokument ist nur Text, den du mit Git verwalten kannst
 - Du kannst Dokumente automatisch generieren
 - Es ist cooler 😎
+:::
 
 ### Projekte in Phase 1
 
@@ -97,8 +103,9 @@ Du wirst interessante Dokumente erstellen, zum Beispiel:
 - Eine Zeitschrift
 - Deine eigenen Ideen!
 
-**Ziel von Phase 1:**
+:::note Ziel von Phase 1
 Du sollst dich mit den wichtigsten Tools vertraut machen und verstehen, wie Programmierer arbeiten.
+:::
 
 ## Phase 2: Web-Entwicklung (für Fortgeschrittene)
 
@@ -109,18 +116,22 @@ Wenn du Phase 1 gemeistert hast und schnell vorankommst, kannst du mit Web-Entwi
 **Was ist das?**
 Markdown ist eine noch einfachere Markup-Language als Typst. Sie wird überall im Internet verwendet (auch auf GitHub!).
 
-**Beispiel:**
+:::info Beispiel
+
 ```markdown
 # Überschrift
 **fett** und *kursiv*
 ```
+
+:::
 
 ### 2. JSON & YAML 📊
 
 **Was ist das?**
 Das sind Formate, um Daten zu speichern. Computer lieben diese Formate!
 
-**JSON Beispiel:**
+:::info JSON Beispiel
+
 ```json
 {
   "name": "Max",
@@ -129,7 +140,10 @@ Das sind Formate, um Daten zu speichern. Computer lieben diese Formate!
 }
 ```
 
-**YAML Beispiel:**
+:::
+
+:::info YAML Beispiel
+
 ```yaml
 name: Max
 alter: 12
@@ -137,6 +151,8 @@ hobbies:
   - Programmieren
   - Fußball
 ```
+
+:::
 
 ### 3. React ⚛️
 
@@ -154,8 +170,9 @@ React ist eine **JavaScript-Library** zum Erstellen von Websites und Apps! Damit
 State Management bedeutet: Wie speichert eine App ihre Daten?
 Zum Beispiel: Welcher Benutzer ist eingeloggt? Was steht im Warenkorb?
 
-**Warum ist das wichtig?**
+:::tip Warum ist das wichtig?
 Ohne State Management wäre deine Website wie ein Goldfisch - sie vergisst alles sofort! 🐠
+:::
 
 ### 5. Astro 🚀
 
@@ -177,7 +194,9 @@ Astro ist ein modernes Tool, um **superschnelle Websites** zu erstellen!
 
 ## Dein Lerntempo
 
-**Wichtig:** Jeder lernt in seinem eigenen Tempo!
+:::info Wichtig
+Jeder lernt in seinem eigenen Tempo!
+:::
 
 - 🐌 **Langsam lernen?** Kein Problem! Du kannst so viel Zeit in Phase 1 verbringen, wie du brauchst.
 - 🚀 **Schnell lernen?** Super! Du kannst schnell zu Phase 2 voranschreiten.

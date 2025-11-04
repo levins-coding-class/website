@@ -30,7 +30,9 @@ Möchtest du mehr über den Kurs erfahren?
 
 - **[Info für Eltern](/info-fuer-eltern)** - Alle Details zu Format, Hardware und Inhalten
 
-**Hinweis:** Dieser Kurs richtet sich vorrangig an Kinder, deren Eltern den Kursleiter persönlich kennen (z.B. Klassenkamerad:innen, Kinder aus dem persönlichen Umfeld).
+:::note Hinweis
+Dieser Kurs richtet sich vorrangig an Kinder, deren Eltern den Kursleiter persönlich kennen (z.B. Klassenkamerad:innen, Kinder aus dem persönlichen Umfeld).
+:::
 
 ## 🛠️ Erste Schritte
 
@@ -52,7 +54,9 @@ Du brauchst einen **kostenlosen GitHub-Account**:
 - Klicke auf "Sign up"
 - Folge den Anweisungen
 
-**Wichtig:** Speichere deinen Benutzernamen und dein Passwort gut ab!
+:::warning Wichtig
+Speichere deinen Benutzernamen und dein Passwort gut ab!
+:::
 
 ## 📚 Wie funktioniert der Kurs?
 

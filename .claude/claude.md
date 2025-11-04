@@ -130,6 +130,24 @@ npm run deploy    # Requires GIT_USER env variable
 - **Children** (Schüler:innen) - informal language
 - **Parents** (Eltern) - informal "Du" form
 
+### Formatting Rules
+
+**Admonitions for Hints and Notes:**
+- **ALWAYS** use Docusaurus admonitions for hints, notes, warnings, etc.
+- **NEVER** use bold text like "**Hinweis:**" or "**Wichtig:**"
+- Available admonition types: `:::note`, `:::tip`, `:::info`, `:::warning`, `:::danger`
+
+Example:
+```markdown
+:::note Hinweis
+Dieser Kurs richtet sich vorrangig an Kinder, deren Eltern den Kursleiter persönlich kennen.
+:::
+
+:::warning Wichtig
+Speichere deinen Benutzernamen und dein Passwort gut ab!
+:::
+```
+
 ### Key Messages
 - **Free course** (kostenlos)
 - **Real developer tools** (no Scratch/visual programming)

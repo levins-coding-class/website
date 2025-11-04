@@ -53,16 +53,18 @@ Für diesen Kurs wird **zwingend ein Unix-basiertes Betriebssystem** benötigt:
 - ✅ **macOS** (alle aktuellen Versionen) - funktioniert gut
 - ⚠️ **Windows** - **NUR als Notlösung** mit WSL 2
 
-**Warum Linux?**
+:::tip Warum Linux?
 - Professionelle Entwickler arbeiten hauptsächlich mit Linux/macOS
 - Alle wichtigen Server laufen mit Linux
 - Bessere Terminal-Integration und Tool-Unterstützung
 - Windows mit WSL funktioniert zwar, ist aber eine Kompromisslösung mit gelegentlichen Problemen
+:::
 
-**Wenn ihr nur einen Windows-PC habt:**
+:::warning Wenn ihr nur einen Windows-PC habt
 - WSL 2 ist möglich, aber nicht ideal
 - Besser: Einen günstigen Linux-Rechner besorgen (siehe unten)
 - Oder: Alten Computer mit Linux neu aufsetzen
+:::
 
 ### Empfohlene Hardware-Lösung
 
@@ -84,11 +86,13 @@ Für diesen Kurs wird **zwingend ein Unix-basiertes Betriebssystem** benötigt:
 - ❌ **Smartphones** - **keine Kursteilnahme möglich**
 - ❌ **Chromebooks** (eingeschränkt, nicht empfohlen)
 
-**Warum?** Programmieren erfordert:
+:::danger Warum keine Tablets?
+Programmieren erfordert:
 - Schnelles Tippen mit beiden Händen
 - Präzise Maussteuerung
 - Viele Tastenkombinationen (Shortcuts)
 - Mehrere Fenster gleichzeitig im Blick
+:::
 
 ### Mindestanforderungen
 
