@@ -19,7 +19,7 @@ Viele Kinder-Programmierkurse nutzen visuelle Programmierumgebungen wie Scratch.
 - Viele geben auf, weil sie wieder "von vorne" anfangen müssen
 - Professionelle Entwicklung verwendet **keine** visuellen Block-Systeme
 
-**Unser Ansatz:** Wir starten direkt mit den echten Tools, die professionelle Entwickler täglich nutzen. Das mag am Anfang etwas steiler sein, aber dein Kind lernt von Anfang an die richtigen Werkzeuge und Arbeitsweisen. Keine Zeit wird verschwendet, alles Gelernte ist direkt auf echte Softwareentwicklung übertragbar.
+**Mein Ansatz:** Ich starte direkt mit den echten Tools, die professionelle Entwickler täglich nutzen. Das mag am Anfang etwas steiler sein, aber dein Kind lernt von Anfang an die richtigen Werkzeuge und Arbeitsweisen. Keine Zeit wird verschwendet, alles Gelernte ist direkt auf echte Softwareentwicklung übertragbar.
 
 ## Kursformat
 
@@ -91,7 +91,7 @@ Falls ihr bereits einen Computer habt:
 ## Technische Voraussetzungen
 
 ### Fernzugriff
-Für technischen Support und Hilfestellung benötigen wir:
+Für technischen Support und Hilfestellung benötige ich:
 - **Fernzugriff** auf das Gerät deines Kindes
 - **Eigenen Administrator-Account** auf dem Gerät
 - Dies ermöglicht schnelle Problemlösung ohne persönlichen Besuch
@@ -198,13 +198,13 @@ Nein! Der Kurs startet bei null und erklärt alle Konzepte von Grund auf.
 Am Anfang ist etwas Unterstützung bei der Einrichtung nötig. Danach sollen die Kinder zunehmend selbstständig arbeiten. Hilfe ist aber jederzeit verfügbar.
 
 ### Wir haben nur einen Windows-Computer. Geht das trotzdem?
-WSL 2 funktioniert als Notlösung, ist aber nicht ideal. Wir empfehlen stark, einen günstigen Linux-Rechner anzuschaffen (z.B. Raspberry Pi 500 für ~150-200 EUR). Die bessere Linux-Unterstützung macht das Lernen deutlich reibungsloser.
+WSL 2 funktioniert als Notlösung, ist aber nicht ideal. Ich empfehle stark, einen günstigen Linux-Rechner anzuschaffen (z.B. Raspberry Pi 500 für ~150-200 EUR). Die bessere Linux-Unterstützung macht das Lernen deutlich reibungsloser.
 
 ### Kann mein Kind auch schneller oder langsamer voranschreiten?
 Absolut! Jedes Kind arbeitet in seinem eigenen Tempo. Es gibt keinen festen Lehrplan mit Deadlines.
 
 ### Was passiert, wenn mein Kind technische Probleme hat?
-Dank Fernzugriff können die meisten Probleme schnell gelöst werden. Bei größeren Problemen vereinbaren wir einen Video-Call.
+Dank Fernzugriff können die meisten Probleme schnell gelöst werden. Bei größeren Problemen vereinbare ich einen Video-Call mit dir.
 
 ### Muss ich als Elternteil technische Kenntnisse haben?
 Nein, das ist nicht notwendig. Alle technischen Aspekte werden über den Fernzugriff oder in Video-Calls geklärt.
@@ -223,7 +223,7 @@ Nein, leider nicht. Tablets (iPad, Android) sind für Programmierung grundsätzl
 Wenn du bereit bist, dein Kind anzumelden:
 
 1. Stelle sicher, dass die Hardware-Anforderungen erfüllt sind
-2. Bereite den Fernzugriff vor (wir helfen dabei)
+2. Bereite den Fernzugriff vor (ich helfe dabei)
 3. Melde dich für ein Onboarding-Gespräch
 
-Wir freuen uns darauf, dein Kind auf seiner Coding-Reise zu begleiten!
+Ich freue mich darauf, dein Kind auf seiner Coding-Reise zu begleiten!

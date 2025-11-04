@@ -39,7 +39,7 @@ Bevor du richtig loslegen kannst, brauchst du ein paar Dinge:
 - (Empfohlen: **Raspberry Pi 500** mit Monitor)
 
 ### 2. Software ✅
-Diese Programme installieren wir zusammen beim Onboarding:
+Diese Programme installiere ich zusammen mit dir beim Onboarding:
 - **VS Code** - Deine Entwicklungsumgebung
 - **Git** - Für Versionskontrolle
 - **Typst** - Zum Erstellen von PDF-Dokumenten

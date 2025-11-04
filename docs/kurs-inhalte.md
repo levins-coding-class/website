@@ -199,7 +199,7 @@ Für Fragen und Diskussionen:
 
 ### 3. Video-Calls
 Bei größeren Problemen oder Erklärungen:
-- Wir schauen uns gemeinsam an, was nicht funktioniert
+- Ich schaue mir gemeinsam mit dir an, was nicht funktioniert
 - Du kannst Fragen stellen
 - Wir finden zusammen eine Lösung
 
@@ -248,7 +248,7 @@ Das brauchst du installiert:
 - ✅ **Typst** - Für PDF-Dokumente
 - ✅ **Node.js** - Später für Web-Entwicklung (Phase 2)
 
-Keine Sorge! Die Installation machen wir zusammen beim Onboarding.
+Keine Sorge! Die Installation mache ich zusammen mit dir beim Onboarding.
 
 ## Bereit loszulegen?
 
