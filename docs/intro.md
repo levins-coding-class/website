@@ -22,7 +22,7 @@ In diesem Kurs lernst du nicht nur irgendeine Programmiersprache. Du lernst:
 Du bist neu hier? Super! Schau dir diese Seiten an:
 
 1. **[Kursinhalte](/kurs-inhalte)** - Was lernst du im Kurs?
-2. **[Erste Schritte](#️-erste-schritte)** - Wie geht es los?
+2. **[Erste Schritte](#erste-schritte)** - Wie geht es los?
 
 ### Für Eltern
 
@@ -34,7 +34,7 @@ Möchtest du mehr über den Kurs erfahren?
 Dieser Kurs richtet sich vorrangig an Kinder, deren Eltern den Kursleiter persönlich kennen (z.B. Klassenkamerad:innen, Kinder aus dem persönlichen Umfeld).
 :::
 
-## 🛠️ Erste Schritte
+## 🛠️ Erste Schritte {#erste-schritte}
 
 Bevor du richtig loslegen kannst, brauchst du ein paar Dinge:
 
