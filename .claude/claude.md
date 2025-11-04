@@ -220,3 +220,17 @@ Speichere deinen Benutzernamen und dein Passwort gut ab!
    ```
 
 **Remember:** Never push broken builds! The build must always succeed.
+
+## Terminology Guide
+
+### Learning Curve (Lernkurve)
+**Important:** A **steep learning curve** means something is EASY to learn (you make rapid progress).
+A **flat/shallow learning curve** means something is HARD to learn (slow progress despite effort).
+
+**In German:**
+- **schwierig/kompliziert = flache Lernkurve** (flat curve = slow progress)
+- **einfach = steile Lernkurve** (steep curve = fast progress)
+
+Most people use this incorrectly! When describing difficulty in this course:
+- Use "flache Lernkurve" for challenging content
+- Add footnote to explain the correct meaning (see info-fuer-eltern.md line 245 for example)

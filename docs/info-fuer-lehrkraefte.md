@@ -349,7 +349,7 @@ Dieser Kurs verfolgt einen **radikal anderen Ansatz** als die meisten Kinder-Pro
 
 **Unser Ansatz:**
 - Kinder lernen von Anfang an die richtigen Tools
-- Die Lernkurve ist anfangs steiler, aber **alles Gelernte ist sofort wertvoll**
+- Die Lernkurve ist anfangs flacher[^1], aber **alles Gelernte ist sofort wertvoll**
 - Kinder entwickeln echte, übertragbare Fähigkeiten
 - Nach 6-12 Monaten können sie bereits mit professionellen Tools arbeiten
 
@@ -1310,3 +1310,5 @@ Möchtest du einen ähnlichen Kurs aufsetzen? Hast du Fragen oder Anregungen?
 ---
 
 **Viel Erfolg beim Aufsetzen deines eigenen Kurses! Gemeinsam machen wir Programmieren für Kinder zugänglich. 🚀**
+
+[^1]: Eine flache Lernkurve ergibt sich, wenn man trotz hohem Arbeitsaufwand wenig Fortschritt macht, die Komplexität der Aufgabe also hoch ist. Die Steigung der Lernkurve ist also gering und die Kurve sieht "flach" aus. Die wenigsten Leute verstehen das und meistens wird "steile Lernkurve" für schwierig zu lernenden Inhalte verwendet, was logisch keinen Sinn macht.
