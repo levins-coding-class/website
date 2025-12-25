@@ -23,8 +23,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'levino', // Usually your GitHub org/user name.
-  projectName: 'coding-class', // Usually your repo name.
+  organizationName: 'levins-coding-class', // Usually your GitHub org/user name.
+  projectName: 'website', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -47,7 +47,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/levino/coding-class/edit/main/',
+            'https://github.com/levins-coding-class/website/edit/main/',
         },
         blog: false, // Disable blog for now
         theme: {
@@ -74,7 +74,7 @@ const config: Config = {
           label: 'Kursmaterial',
         },
         {
-          href: 'https://github.com/levino/coding-class',
+          href: 'https://github.com/levins-coding-class/website',
           label: 'GitHub',
           position: 'right',
         },
@@ -101,15 +101,15 @@ const config: Config = {
           items: [
             {
               label: 'GitHub Repository',
-              href: 'https://github.com/levino/coding-class',
+              href: 'https://github.com/levins-coding-class/website',
             },
             {
               label: 'GitHub Issues',
-              href: 'https://github.com/levino/coding-class/issues',
+              href: 'https://github.com/levins-coding-class/website/issues',
             },
             {
               label: 'GitHub Discussions',
-              href: 'https://github.com/levino/coding-class/discussions',
+              href: 'https://github.com/levins-coding-class/website/discussions',
             },
           ],
         },
