@@ -942,6 +942,12 @@ Der Kurs ist bewusst **asynchron** aufgebaut:
 
 ### Community und Support
 
+**GitHub-Organisation:**
+Alle Kursmaterialien und Projekte sind in der [GitHub-Organisation "levins-coding-class"](https://github.com/orgs/levins-coding-class) gebündelt.
+
+**Öffentliches Diskussionsforum:**
+Für allgemeine Fragen und Austausch gibt es ein [öffentliches Diskussionsforum](https://github.com/levins-coding-class/website/discussions). Hier können Lehrkräfte, Eltern und Mentees Erfahrungen teilen und Fragen stellen.
+
 **Open Source Philosophie:**
 - Alle Kursmaterialien können frei verwendet werden
 - Ermutige Schüler, zu Open Source beizutragen
@@ -1296,8 +1302,11 @@ Die Lernkurve ist anfangs steiler, aber:
 
 Möchtest du einen ähnlichen Kurs aufsetzen? Hast du Fragen oder Anregungen?
 
-**GitHub Discussions:**
-- [Diskussionen starten](https://github.com/levino/coding-class/discussions)
+**GitHub-Organisation:**
+- [levins-coding-class auf GitHub](https://github.com/orgs/levins-coding-class) - Alle Projekte und Materialien
+
+**Öffentliches Diskussionsforum:**
+- [Diskussionen starten](https://github.com/levins-coding-class/website/discussions)
 - Fragen stellen
 - Erfahrungen teilen
 
