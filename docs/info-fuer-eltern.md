@@ -208,6 +208,16 @@ Alle Kursaktivitäten sind in der [GitHub-Organisation "levins-coding-class"](ht
 - **Internes Diskussionsforum** - Für den Austausch zwischen Mentees, Eltern und mir
 - **Übersicht** - Alle Aktivitäten und Fortschritte an einem Ort
 
+### Internes Diskussionsforum
+
+Für **Kursteilnehmer und deren Eltern** gibt es ein [internes Diskussionsforum](https://github.com/orgs/levins-coding-class/discussions). Hier können:
+
+- **Eltern** sich untereinander austauschen und organisatorische Fragen klären
+- **Mentees** Fragen zu ihren Projekten stellen und Hilfe bekommen
+- **Alle Kursteilnehmer** Ankündigungen und wichtige Updates verfolgen
+
+Das interne Forum ist nur für Mitglieder der GitHub-Organisation sichtbar und bietet einen geschützten Raum für den Austausch.
+
 ### Öffentliches Diskussionsforum
 
 Für allgemeine Fragen und Austausch gibt es ein [öffentliches Diskussionsforum](https://github.com/levins-coding-class/website/discussions). Hier können:
