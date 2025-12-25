@@ -40,7 +40,7 @@ Bevor du richtig loslegen kannst, brauchst du ein paar Dinge:
 
 ### 1. Hardware ✅
 - Ein Computer mit **Linux**, **macOS** oder **Windows mit WSL**
-- (Empfohlen: **Raspberry Pi 500** mit Monitor)
+- (Empfohlen: **Raspberry Pi 500 mit NVMe** und Monitor)
 
 ### 2. Software ✅
 Diese Programme installiere ich zusammen mit dir beim Onboarding:

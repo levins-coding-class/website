@@ -68,12 +68,16 @@ Für diesen Kurs wird **zwingend ein Unix-basiertes Betriebssystem** benötigt:
 
 ### Empfohlene Hardware-Lösung
 
-**Raspberry Pi 500 Set (~150-200 EUR):**
+**Raspberry Pi 500 mit NVMe-Speicher (~200-250 EUR):**
 - Komplett-System mit Computer und Monitor
 - Kommt fertig mit Linux eingerichtet
 - Vollständig ausreichend für alle Kursinhalte
 - Kostengünstig und pädagogisch wertvoll
 - Genau das gleiche System, das andere Kursteilnehmer verwenden
+
+:::warning NVMe statt SD-Karte!
+Die eingebaute SD-Karte im Raspberry Pi 500 ist zu langsam für flüssiges Arbeiten. Bitte unbedingt ein **NVMe-Erweiterungsmodul** dazu kaufen - der Geschwindigkeitsunterschied ist enorm!
+:::
 
 ### Eingabegeräte - WICHTIG!
 
@@ -230,7 +234,7 @@ Nein! Der Kurs startet bei null und erklärt alle Konzepte von Grund auf.
 Am Anfang ist etwas Unterstützung bei der Einrichtung nötig. Danach sollen die Kinder zunehmend selbstständig arbeiten. Hilfe ist aber jederzeit verfügbar.
 
 ### Wir haben nur einen Windows-Computer. Geht das trotzdem?
-WSL 2 funktioniert als Notlösung, ist aber nicht ideal. Ich empfehle stark, einen günstigen Linux-Rechner anzuschaffen (z.B. Raspberry Pi 500 für ~150-200 EUR). Die bessere Linux-Unterstützung macht das Lernen deutlich reibungsloser.
+WSL 2 funktioniert als Notlösung, ist aber nicht ideal. Ich empfehle stark, einen günstigen Linux-Rechner anzuschaffen (z.B. Raspberry Pi 500 mit NVMe für ~200-250 EUR). Die bessere Linux-Unterstützung macht das Lernen deutlich reibungsloser.
 
 ### Kann mein Kind auch schneller oder langsamer voranschreiten?
 Absolut! Jedes Kind arbeitet in seinem eigenen Tempo. Es gibt keinen festen Lehrplan mit Deadlines.

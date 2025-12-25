@@ -883,11 +883,12 @@ Der Kurs ist bewusst **asynchron** aufgebaut:
 ### Technische Infrastruktur
 
 **Empfohlenes Setup:**
-- **Raspberry Pi 500** (~150-200 EUR pro Kind)
+- **Raspberry Pi 500 mit NVMe** (~200-250 EUR pro Kind)
   - Komplett-System mit Monitor
   - Linux vorinstalliert
   - Ausreichend für alle Kursinhalte
   - Pädagogisch wertvoll (eigener Computer!)
+  - **Wichtig:** NVMe-Speicher statt SD-Karte (SD ist zu langsam!)
 
 **Software (alles kostenlos):**
 - Linux (Ubuntu, Raspberry Pi OS, etc.)
@@ -1036,7 +1037,7 @@ Diese Fehler können den Kurserfolg massiv gefährden. Lerne aus unseren Erfahru
 
 **Die Lösung:**
 - **Nur Linux oder macOS** im Kurs zulassen
-- Am besten: **Alle Kinder bekommen gleiche Hardware** (z.B. Raspberry Pi 500)
+- Am besten: **Alle Kinder bekommen gleiche Hardware** (z.B. Raspberry Pi 500 mit NVMe)
 - Falls ein Kind nur Windows-PC hat: **Lieber warten** bis Linux-Lösung gefunden ist
 
 **Konkrete Regel:**
@@ -1112,7 +1113,7 @@ Diese Fehler können den Kurserfolg massiv gefährden. Lerne aus unseren Erfahru
 
 **Was standardisieren:**
 - Betriebssystem (z.B. alle Ubuntu 24.04)
-- Hardware (z.B. alle Raspberry Pi 500)
+- Hardware (z.B. alle Raspberry Pi 500 mit NVMe)
 - Editor (alle VS Code mit gleichen Extensions)
 - Ordnerstruktur (`~/coding-class/` für alle)
 - Git-Konfiguration (gleiche Einstellungen)
@@ -1185,7 +1186,7 @@ Eltern müssen **aktiv kooperieren** und diese Programme **vorenthalten**:
 
 ### Option A: Alle gleich (IDEAL)
 
-**Hardware:** Alle Kinder bekommen Raspberry Pi 500 Set (~150-200 EUR)
+**Hardware:** Alle Kinder bekommen Raspberry Pi 500 mit NVMe (~200-250 EUR)
 **Vorteil:**
 - Komplett identisches Setup
 - Einheitliche Problemlösung
@@ -1228,7 +1229,7 @@ Eltern müssen **aktiv kooperieren** und diese Programme **vorenthalten**:
 **Der Setup-Prozess ist aktuell noch mühsam, aber lohnenswert.**
 
 ### Was funktioniert bereits gut:
-- Raspberry Pi 500 als standardisierte Hardware
+- Raspberry Pi 500 mit NVMe als standardisierte Hardware
 - Admin-Zugang für schnelle Problemlösung
 - Fernwartung über SSH/TeamViewer
 
