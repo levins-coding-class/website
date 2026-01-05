@@ -49,15 +49,21 @@ Du hast grundsätzlich zwei Möglichkeiten:
 - Du möchtest keine monatlichen Kosten
 :::
 
-### Option B: Eltern-Hardware + Cloud-Lösung nutzen
+### Option B: Cloud-Lösung nutzen
 
 **Was bedeutet das?**
-- Dein Kind nutzt einen **vorhandenen Computer der Eltern** (Windows, Mac, Linux)
+- Dein Kind nutzt einen **vorhandenen Computer** (Windows, Mac, Linux)
 - Auf diesem Computer werden **keine Entwicklungstools installiert**
 - Stattdessen: Verbindung zu einem **Cloud-Server** (Remote Desktop)
 - Der Cloud-Server ist ein virtueller Linux-Desktop bei Hetzner
 - Kosten: **~7 EUR pro Monat**
 - Ich helfe beim Einrichten des Servers
+
+:::info Diese Option ist Pflicht, wenn:
+- Ihr nur einen **Windows-Computer** habt (Windows ist im Kurs nicht zugelassen)
+- Der Computer **von mehreren Personen genutzt wird** (Geschwister, Eltern)
+- Ihr **kein dediziertes Gerät nur für euer Kind** bereitstellen könnt
+:::
 
 **Vorteile:**
 - ✅ Keine Anfangsinvestition für Hardware
@@ -134,16 +140,31 @@ Alles läuft auf dem Cloud-Server, euer Computer ist nur ein "Fenster" zum Serve
 
 ## Datenschutz und Sicherheit
 
+:::danger Wichtig: Dediziertes Gerät oder Cloud-Lösung!
+Ich (Levin Keller) benötige **Fernzugriff und vollständigen Admin-Zugriff** auf das Gerät deines Kindes - zumindest bei Einsteigern. Daher ist es **zwingend erforderlich**, dass:
+
+**Entweder:**
+- Ein **dediziertes Gerät nur für dein Kind** verwendet wird (Option A)
+- Auf diesem Gerät **keine persönlichen Daten anderer Personen** gespeichert sind
+
+**Oder:**
+- Die **Cloud-Lösung** genutzt wird (Option B)
+- Dann habe ich nur Zugriff auf den Cloud-Server, nicht auf euren Computer
+:::
+
 ### Bei dedizierter Hardware:
 - Ich habe vollen Zugriff auf das Gerät
-- Das Gerät sollte NUR für den Kurs genutzt werden
-- Keine privaten Daten auf diesem Gerät speichern
+- Das Gerät **muss ausschließlich** für den Kurs genutzt werden
+- **Keine** privaten Daten auf diesem Gerät speichern
+- **Keine** Daten von Geschwistern, Eltern oder anderen Familienmitgliedern
+- Bei geteilten Familien-Computern: **Cloud-Lösung ist Pflicht**
 
 ### Bei Cloud-Lösung:
-- Ich habe keinen Zugriff auf euren persönlichen Computer
+- Ich habe **keinen Zugriff** auf euren persönlichen Computer
 - Eure privaten Daten bleiben vollständig geschützt
 - Ich habe nur Zugriff auf den Cloud-Server
 - Der Cloud-Server enthält nur Kurs-Materialien
+- **Perfekt für geteilte Computer oder Windows-Nutzer**
 
 ## Nächste Schritte
 
