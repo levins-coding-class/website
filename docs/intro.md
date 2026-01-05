@@ -39,8 +39,9 @@ Das Mentoring richtet sich vorrangig an Kinder, deren Eltern mich (Levin Keller)
 Bevor du richtig loslegen kannst, brauchst du ein paar Dinge:
 
 ### 1. Hardware ✅
-- Ein Computer mit **Linux**, **macOS** oder **Windows mit WSL**
+- Ein Computer mit **Linux** oder **macOS** (Windows ist nicht zugelassen)
 - (Empfohlen: **Raspberry Pi 500+** und Monitor)
+- Alternativ: **Cloud-Lösung** für Windows-Nutzer oder geteilte Computer
 
 ### 2. Software ✅
 Diese Programme installiere ich zusammen mit dir beim Onboarding:

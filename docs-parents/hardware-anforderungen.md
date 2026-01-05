@@ -16,20 +16,20 @@ Für diesen Kurs wird **zwingend ein Unix-basiertes Betriebssystem** benötigt:
 
 - ✅ **Linux** (Ubuntu, Debian, Fedora, etc.) - **STARK EMPFOHLEN**
 - ✅ **macOS** (alle aktuellen Versionen) - funktioniert gut
-- ⚠️ **Windows** - **NUR als Notlösung** mit WSL 2
+- ❌ **Windows** - **NICHT ZUGELASSEN** (auch nicht mit WSL)
 
 :::tip Warum Linux?
 - Professionelle Entwickler arbeiten hauptsächlich mit Linux/macOS
 - Alle wichtigen Server laufen mit Linux
 - Bessere Terminal-Integration und Tool-Unterstützung
-- Windows mit WSL funktioniert zwar, ist aber eine Kompromisslösung mit gelegentlichen Problemen
+- Windows (auch mit WSL) verursacht zu viele Probleme und bindet zu viel Support-Zeit
 :::
 
 :::warning Wenn ihr nur einen Windows-PC habt
-- WSL 2 ist möglich, aber nicht ideal
-- Besser: Einen günstigen Linux-Rechner besorgen (siehe unten)
-- Oder: Alten Computer mit Linux neu aufsetzen
-- Oder: **Cloud-Lösung nutzen** (siehe [Hardware-Entscheidung](/eltern/hardware-entscheidung))
+Windows ist im Kurs nicht zugelassen. Ihr habt folgende Optionen:
+- **Cloud-Lösung nutzen** (empfohlen!) - siehe [Hardware-Entscheidung](/eltern/hardware-entscheidung)
+- Einen günstigen Linux-Rechner besorgen (z.B. Raspberry Pi 500+)
+- Einen alten Computer mit Linux neu aufsetzen
 :::
 
 ## Empfohlene Hardware-Lösung
@@ -103,8 +103,22 @@ Für technischen Support und Hilfestellung benötige ich:
 - **Eigenen Administrator-Account** auf dem Gerät
 - Dies ermöglicht schnelle Problemlösung ohne persönlichen Besuch
 
-:::warning Wichtig
-Da ich vollen Admin-Zugriff benötige, sollte dieses Gerät **NUR von deinem Kind für den Kurs** genutzt werden. Keine privaten Daten der Eltern auf diesem Gerät!
+:::danger Sehr wichtig - Bitte unbedingt lesen!
+Da ich (Levin Keller) **Fernzugriff und vollständigen Admin-Zugriff** auf das Gerät benötige, gelten folgende Regeln:
+
+**Das Gerät muss ausschließlich für den Kurs verwendet werden:**
+- ✅ Nur Arbeitsunterlagen deines Kindes
+- ❌ **Keine** persönlichen Daten von Eltern
+- ❌ **Keine** Daten von Geschwistern
+- ❌ **Keine** Fotos, Dokumente oder Accounts anderer Familienmitglieder
+
+**Warum?**
+- Ich brauche vollen Zugriff, um effektiv helfen zu können (zumindest bei Einsteigern)
+- Datenschutz: Ich sollte keine privaten Daten Dritter sehen können
+- Sicherheit: Ein dediziertes Gerät verhindert versehentliche Konflikte
+
+**Falls ihr kein dediziertes Gerät bereitstellen könnt:**
+→ Nutzt die **Cloud-Lösung** - dort greife ich nur auf den Cloud-Server zu, nicht auf euren Computer!
 :::
 
 ### Software-Installation
@@ -113,7 +127,6 @@ Falls noch nicht vorhanden, muss vor Kursbeginn installiert werden:
 - **VS Code** (Entwicklungsumgebung)
 - **Git** (Versionskontrolle)
 - **Typst** (Dokumentenerstellung)
-- Bei Windows: **WSL 2** (Windows Subsystem for Linux)
 
 Unterstützung bei der Installation bekommst du beim Onboarding.
 

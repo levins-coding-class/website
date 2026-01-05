@@ -21,10 +21,11 @@ Diese Fehler können den Kurserfolg massiv gefährden. Lerne aus unseren Erfahru
 **Die Lösung:**
 - **Nur Linux oder macOS** im Kurs zulassen
 - Am besten: **Alle Kinder bekommen gleiche Hardware** (z.B. Raspberry Pi 500+)
-- Falls ein Kind nur Windows-PC hat: **Lieber warten** bis Linux-Lösung gefunden ist
+- Falls ein Kind nur Windows-PC hat: **Cloud-Lösung über Hetzner nutzen**
+- Bei geteilten Familien-Computern: **Cloud-Lösung ist Pflicht** (Datenschutz!)
 
 **Konkrete Regel:**
-> "Teilnahme am Kurs erfordert Linux oder macOS. Windows (auch mit WSL) ist nicht zugelassen."
+> "Teilnahme am Kurs erfordert Linux oder macOS. Windows (auch mit WSL) ist nicht zugelassen. Bei Windows-Computern oder geteilten Familien-Rechnern wird die Cloud-Lösung verwendet."
 
 **Warum das nicht hart, sondern notwendig ist:**
 - Ein einziger Windows-Nutzer kann 50% deiner Support-Zeit binden
@@ -197,15 +198,16 @@ Eltern müssen **aktiv kooperieren** und diese Programme **vorenthalten**:
 - Zwei parallele Anleitungen nötig
 - Mehr Komplexität
 
-### Option D: Mit Windows-WSL (NICHT EMPFOHLEN)
+### Option D: Cloud-Lösung (FÜR WINDOWS/GETEILTE GERÄTE)
 
-**Hardware:** Windows mit WSL 2
-**Bedingung:** Nur als absolute letzte Option
-**Problem:**
-- Bindet massive Support-Ressourcen
-- Ständig andere Probleme als Linux/macOS
-- Frustrierend für alle Beteiligten
-**Alternative:** Besser warten, bis Linux-Lösung vorhanden ist
+**Hardware:** Beliebiger Computer (Windows, Mac, Linux) + Cloud-Server bei Hetzner
+**Bedingung:** Pflicht bei Windows-Computern oder geteilten Familien-Rechnern
+**Vorteil:**
+- Windows-Nutzer können teilnehmen, ohne dass du Windows-Probleme lösen musst
+- Kein Zugriff auf private Daten der Familie nötig
+- Du arbeitest nur auf dem Cloud-Server (Linux)
+- Ca. 7 EUR/Monat Kosten
+**Details:** Siehe [Cloud-Config Repository](https://github.com/levins-coding-class/cloud-config)
 
 ## Verbesserungen und offene Fragen
 
@@ -215,20 +217,15 @@ Eltern müssen **aktiv kooperieren** und diese Programme **vorenthalten**:
 - Raspberry Pi 500+ als standardisierte Hardware
 - Admin-Zugang für schnelle Problemlösung
 - Fernwartung über SSH/TeamViewer
+- **Cloud-Lösung über Hetzner** für Windows-Nutzer und geteilte Computer
 
 ### Was noch verbessert werden kann:
-- **Virtuelle Maschinen:** Könnte für Windows-Nutzer eine Alternative sein?
-  - VM mit vorinstalliertem Linux
-  - Export/Import für einfache Verteilung
-  - Problem: Performance, Komplexität
-
 - **Docker-Container:** Entwicklungsumgebung als Container?
   - Portabel und reproduzierbar
   - Problem: Zu abstrakt für Kinder?
 
-- **Cloud-basierte Entwicklung:** VS Code im Browser?
-  - GitHub Codespaces, Gitpod
-  - Problem: Kosten, Internetabhängigkeit
+- **GitHub Codespaces:** VS Code im Browser?
+  - Problem: Kosten bei längerer Nutzung
 
 **Wir sind offen für Vorschläge!** Wenn du Erfahrungen mit besseren Setup-Strategien hast, teile sie bitte in den GitHub Discussions.
 

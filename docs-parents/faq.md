@@ -32,9 +32,19 @@ Nein, das ist nicht notwendig. Alle technischen Aspekte werden über den Fernzug
 
 ### Wir haben nur einen Windows-Computer. Geht das trotzdem?
 
-Ja, über die **Cloud-Lösung**! Du musst keine Linux-Installation machen. Dein Kind verbindet sich einfach per Remote Desktop zu einem Cloud-Server mit Linux. Siehe [Hardware-Entscheidung](/eltern/hardware-entscheidung).
+Ja, aber **nur über die Cloud-Lösung**! Windows (auch mit WSL) ist im Kurs nicht zugelassen, da es zu viele Probleme verursacht.
 
-WSL 2 auf Windows funktioniert als Notlösung für dedizierte Hardware, ist aber nicht ideal. Ich empfehle stark die Cloud-Lösung oder einen günstigen Linux-Rechner (z.B. Raspberry Pi 500+).
+**Die Lösung:** Dein Kind verbindet sich per Remote Desktop zu einem Cloud-Server mit Linux. Auf eurem Windows-Computer wird nichts installiert außer einem RDP-Client (ist bei Windows bereits eingebaut). Siehe [Hardware-Entscheidung](/eltern/hardware-entscheidung).
+
+**Alternativ:** Einen günstigen Linux-Rechner besorgen (z.B. Raspberry Pi 500+ für ca. 200 EUR).
+
+### Unser Computer wird von der ganzen Familie genutzt. Ist das ein Problem?
+
+Ja, das ist ein Problem für **Option A (dedizierte Hardware)**. Da Levin Keller vollständigen Admin-Zugriff auf das Gerät benötigt, dürfen sich dort **keine persönlichen Daten anderer Familienmitglieder** befinden - weder von Eltern noch von Geschwistern.
+
+**Lösung:** Nutzt die **Cloud-Lösung (Option B)**. Dabei greift der Kursleiter nur auf den Cloud-Server zu, nicht auf euren Familien-Computer. Eure privaten Daten bleiben vollständig geschützt.
+
+Siehe [Hardware-Entscheidung](/eltern/hardware-entscheidung) für mehr Details.
 
 ### Kann mein Kind auf einem Tablet teilnehmen?
 
@@ -140,14 +150,17 @@ Ja. GitHub ist eine professionelle Plattform mit Millionen Nutzern weltweit. All
 ### Was ist mit dem Fernzugriff?
 
 **Bei dedizierter Hardware:**
-- Ich bekomme Admin-Zugang auf dem dedizierten Gerät
-- Dieses Gerät sollte NUR für den Kurs genutzt werden
-- Keine privaten Daten auf diesem Gerät!
+- Ich (Levin Keller) bekomme vollständigen Admin-Zugang auf dem dedizierten Gerät
+- Dieses Gerät **muss ausschließlich** für den Kurs genutzt werden
+- **Keine** privaten Daten auf diesem Gerät!
+- **Keine** Daten von Geschwistern, Eltern oder anderen Familienmitgliedern
+- Bei geteilten Computern: Cloud-Lösung ist Pflicht
 
 **Bei Cloud-Lösung:**
 - Ich habe Zugriff auf den Cloud-Server
 - **KEIN Zugriff** auf euren persönlichen Computer
-- Eure privaten Daten bleiben geschützt
+- Eure privaten Daten bleiben vollständig geschützt
+- Ideal für Windows-Nutzer und geteilte Familien-Computer
 
 ## Kosten-Fragen
 
