@@ -1,0 +1,185 @@
+---
+sidebar_position: 6
+---
+
+# Häufig gestellte Fragen (FAQ)
+
+Hier findest du Antworten auf die häufigsten Fragen zum Kurs.
+
+## Allgemeine Fragen
+
+### Mein Kind hat keine Programmiererfahrung. Ist das ein Problem?
+
+Nein! Der Kurs startet bei null und erklärt alle Konzepte von Grund auf. Keine Vorkenntnisse erforderlich.
+
+### Wie viel Unterstützung braucht mein Kind?
+
+Am Anfang ist etwas Unterstützung bei der Einrichtung nötig. Danach sollen die Kinder zunehmend selbstständig arbeiten. Hilfe ist aber jederzeit verfügbar.
+
+### Kann mein Kind auch schneller oder langsamer voranschreiten?
+
+Absolut! Jedes Kind arbeitet in seinem eigenen Tempo. Es gibt keinen festen Lehrplan mit Deadlines.
+
+### Was passiert, wenn mein Kind technische Probleme hat?
+
+Dank Fernzugriff (bei dedizierter Hardware) oder direktem Server-Zugang (bei Cloud-Lösung) können die meisten Probleme schnell gelöst werden. Bei größeren Problemen vereinbare ich einen Video-Call mit dir.
+
+### Muss ich als Elternteil technische Kenntnisse haben?
+
+Nein, das ist nicht notwendig. Alle technischen Aspekte werden über den Fernzugriff oder in Video-Calls geklärt.
+
+## Hardware-Fragen
+
+### Wir haben nur einen Windows-Computer. Geht das trotzdem?
+
+Ja, über die **Cloud-Lösung**! Du musst keine Linux-Installation machen. Dein Kind verbindet sich einfach per Remote Desktop zu einem Cloud-Server mit Linux. Siehe [Hardware-Entscheidung](/eltern/hardware-entscheidung).
+
+WSL 2 auf Windows funktioniert als Notlösung für dedizierte Hardware, ist aber nicht ideal. Ich empfehle stark die Cloud-Lösung oder einen günstigen Linux-Rechner (z.B. Raspberry Pi 500+).
+
+### Kann mein Kind auf einem Tablet teilnehmen?
+
+Nein, leider nicht. Tablets (iPad, Android) sind für Programmierung grundsätzlich ungeeignet. Es wird zwingend ein Computer mit physischer Tastatur und Maus benötigt.
+
+### Was ist besser: Eigene Hardware oder Cloud-Lösung?
+
+**Zum Ausprobieren:** Cloud-Lösung (keine Anfangsinvestition)
+**Langfristig:** Eigene Hardware (günstiger nach 3-4 Monaten)
+**Hybrid:** Mit Cloud starten, später auf eigene Hardware wechseln
+
+Siehe [Hardware-Entscheidung](/eltern/hardware-entscheidung) für detaillierten Vergleich.
+
+### Wie teuer ist die Cloud-Lösung?
+
+Etwa **7 EUR pro Monat** für einen Hetzner CX33 Server. Das sind ca. 84 EUR pro Jahr. Ich helfe beim Einrichten.
+
+### Was ist der Raspberry Pi 500+?
+
+Ein kompakter All-in-One Computer für ca. 200 EUR mit:
+- Linux vorinstalliert
+- 16GB RAM und 256GB NVMe Speicher
+- Ausreichend für alle Kursinhalte
+- Eingebaute Tastatur
+
+**Wichtig:** Kaufe den **Pi 500+ (mit Plus!)**, nicht den normalen Pi 500. Der Plus hat schnellen NVMe-Speicher statt langsamer SD-Karte.
+
+## Kurs-Fragen
+
+### Wie lange dauert der Kurs?
+
+Der Kurs ist auf **6-12 Monate** angelegt, kann aber nach Bedarf verlängert werden. Es gibt keine festen Endtermine.
+
+### Gibt es Hausaufgaben?
+
+Nicht im klassischen Sinne. Kinder arbeiten an ihren eigenen Projekten in ihrem eigenen Tempo. Es gibt keine Deadlines.
+
+### Gibt es Noten oder Bewertungen?
+
+Nein. Der Kurs ist nicht Teil der Schule und es gibt keine Noten. Der Fokus liegt auf Lernen und Spaß an der Sache.
+
+### Kann mein Kind jederzeit einsteigen?
+
+In der Regel ja. Kontaktiere mich, um zu besprechen, wann der nächste gute Einstiegszeitpunkt ist.
+
+### Was passiert, wenn mein Kind eine Pause braucht?
+
+Kein Problem! Der Kurs ist flexibel. Wenn dein Kind eine Pause braucht, können wir das jederzeit besprechen.
+
+## Technische Fragen
+
+### Was ist Git/GitHub?
+
+**Git:** Ein System zur Versionskontrolle (wie "Änderungen verfolgen" in Word, aber viel mächtiger)
+**GitHub:** Eine Plattform im Internet, wo Git-Repositories gespeichert werden und wo Teams zusammenarbeiten
+
+Das sind die wichtigsten Tools in der modernen Softwareentwicklung. Praktisch alle Entwickler weltweit nutzen Git.
+
+### Was ist VS Code?
+
+**Visual Studio Code (VS Code):** Eine kostenlose, professionelle Entwicklungsumgebung von Microsoft. Wird von Millionen Entwicklern weltweit genutzt.
+
+### Was ist Typst?
+
+**Typst:** Eine moderne Alternative zu LaTeX für das Erstellen von PDF-Dokumenten mit Code. Einfacher als LaTeX, mächtiger als Word. Perfekt zum Einstieg in textbasierte Formate.
+
+### Warum kein Word/Excel/PowerPoint?
+
+Diese Tools basieren auf einem veralteten Arbeitsmodell:
+- Binäre Dateiformate (nicht mit Git versionierbar)
+- Manuelle Formatierung
+- Keine Automatisierung
+- Kollaboration ist umständlich
+
+Moderne Entwicklung nutzt:
+- Textbasierte Formate (Markdown, Typst, HTML)
+- Code-basierte Dokumentenerstellung
+- Git für Versionskontrolle und Kollaboration
+
+Siehe auch: [Info für Lehrkräfte](/lehrkraefte/kein-office) für eine ausführliche Erklärung.
+
+## Datenschutz-Fragen
+
+### Welche Daten werden gespeichert?
+
+- GitHub-Account des Kindes
+- Code und Projekte in privaten Repositories
+- Kommunikation in Issues/Discussions
+- Bei dedizierter Hardware: Zugriffsdaten für Fernwartung
+- Bei Cloud-Lösung: Zugriffsdaten zum Server
+
+### Wer hat Zugriff auf die Projekte?
+
+- Dein Kind
+- Ich (als Mentor)
+- Eventuell du als Elternteil (auf Wunsch)
+- Niemand sonst (private Repositories)
+
+### Ist GitHub sicher?
+
+Ja. GitHub ist eine professionelle Plattform mit Millionen Nutzern weltweit. Alle Repositories sind standardmäßig privat und nur für autorisierte Personen zugänglich.
+
+### Was ist mit dem Fernzugriff?
+
+**Bei dedizierter Hardware:**
+- Ich bekomme Admin-Zugang auf dem dedizierten Gerät
+- Dieses Gerät sollte NUR für den Kurs genutzt werden
+- Keine privaten Daten auf diesem Gerät!
+
+**Bei Cloud-Lösung:**
+- Ich habe Zugriff auf den Cloud-Server
+- **KEIN Zugriff** auf euren persönlichen Computer
+- Eure privaten Daten bleiben geschützt
+
+## Kosten-Fragen
+
+### Was kostet der Kurs?
+
+Der Kurs selbst ist **komplett kostenlos**. Es fallen keine Kursgebühren an.
+
+### Welche Kosten entstehen?
+
+**Option A - Dedizierte Hardware:**
+- Hardware: ~200-300 EUR einmalig
+- Danach: keine laufenden Kosten
+
+**Option B - Cloud-Lösung:**
+- Keine Anfangsinvestition
+- ~7 EUR pro Monat für Cloud-Server (~84 EUR/Jahr)
+
+### Gibt es versteckte Kosten?
+
+Nein. Alle Software ist kostenlos und Open Source. GitHub ist kostenlos. Die einzigen Kosten sind Hardware (Option A) oder Server-Hosting (Option B).
+
+## Kontakt
+
+### Ich habe eine Frage, die hier nicht beantwortet wird
+
+Kein Problem! Kontaktiere mich über:
+- [GitHub Discussions](https://github.com/levins-coding-class/website/discussions)
+- Direkter Kontakt (wenn du mich persönlich kennst)
+
+### Wie melde ich mein Kind an?
+
+1. Lies diese Dokumentation
+2. Entscheide dich für eine Hardware-Option
+3. Kontaktiere mich für ein Onboarding-Gespräch
+4. Wir vereinbaren einen Termin zum Einrichten
