@@ -2,69 +2,67 @@
 sidebar_position: 5
 ---
 
-# Lerninhalte
+# Mögliche Lerninhalte
 
-Was lernt dein Kind im Kurs? Hier ist ein Überblick über die Inhalte und Phasen.
+Was könnte dein Kind im Mentoring lernen? Hier ist ein Überblick über Themenbereiche, die wir erkunden können.
 
-## Phase 1: Grundlagen (Start)
+:::info Keine feste Reihenfolge
+Diese Liste zeigt **mögliche** Themen - nicht einen Lehrplan, den dein Kind abarbeiten muss. Was wir tatsächlich machen, hängt von den Interessen deines Kindes ab. Manche Kinder fokussieren sich auf ein Thema, andere probieren vieles aus.
+:::
 
-**Dauer: ca. 2-3 Monate** (je nach Lerngeschwindigkeit)
+## Grundlegende Werkzeuge
 
-Die Kinder lernen:
+Fast alle Kinder lernen diese Basis-Tools kennen, weil sie für alles andere nützlich sind:
 
 ### Git & GitHub
-- Versionskontrolle verstehen
-- Commits erstellen
-- Mit einem Repository arbeiten
-- Issues und Discussions nutzen
+- Versionskontrolle verstehen (wie "Änderungen verfolgen" in Word, aber mächtiger)
+- Projekte speichern und teilen
+- Fragen stellen über Issues und Discussions
 
 ### VS Code
-- IDE kennenlernen
+- Eine professionelle Entwicklungsumgebung kennenlernen
 - Dateien bearbeiten
-- Terminal nutzen
+- Das Terminal nutzen
+
+## Dokumente erstellen
 
 ### Typst
 - Dokumente mit Code erstellen
-- Markup-Sprache verstehen
 - PDF-Dateien generieren
-- Als moderner Word-Ersatz
+- Ein moderner Word-Ersatz
 
-**Ziel dieser Phase:** Die Kinder sollen verstehen, wie man mit modernen Entwicklungswerkzeugen arbeitet und sich selbstständig Hilfe holen kann.
+Typst ist oft ein guter Einstieg, weil Kinder schnell sichtbare Ergebnisse haben (ein schönes PDF!).
 
-## Phase 2: Web-Entwicklung (Fortgeschritten)
+## Web-Entwicklung
 
-**Für schnellere Lerner oder nach Phase 1**
-
-Die Kinder lernen:
+Für Kinder, die Websites bauen möchten:
 
 ### Markdown
 - Einfache Textformatierung
 - Dokumentation schreiben
 - README-Dateien erstellen
 
-### JSON & YAML
-- Datenformate verstehen
-- Konfigurationsdateien lesen und schreiben
-- Strukturierte Daten
+### HTML & CSS
+- Grundlagen des Webs verstehen
+- Seiten strukturieren und gestalten
 
 ### React
-- Moderne Web-Entwicklung
-- Komponenten erstellen
-- Interaktive Websites bauen
-
-### Frontend State Management
-- Daten in Anwendungen verwalten
-- Zustand verstehen
-- Komplexere Anwendungen
+- Moderne, interaktive Websites
+- Komponenten-basiertes Denken
 
 ### Astro
 - Statische Websites erstellen
-- Content-fokussierte Sites
-- Performance-optimierte Webseiten
+- Blogs und Portfolio-Seiten
+
+## Datenformate
+
+### JSON & YAML
+- Wie Computer Daten strukturieren
+- Konfigurationsdateien verstehen
 
 ## Die Ebenen der Programmierung
 
-Ein wichtiges Konzept des Kurses: Kinder lernen, dass Programmierung aus mehreren Ebenen besteht:
+Ein wichtiges Konzept im Mentoring: Kinder lernen, dass Programmierung aus mehreren Ebenen besteht:
 
 **Ebene 1: Versionskontrolle (Git)**
 - Wo speichere ich meinen Code?
@@ -97,11 +95,11 @@ Diese technischen Details sind KEINE "nice-to-have" Extras, sondern **essentiell
 - Praktische Anwendbarkeit
 :::
 
-## Was macht diesen Kurs besonders?
+## Was macht dieses Mentoring besonders?
 
 ### Echte Ergebnisse
 
-Anders als in vielen Programmierkursen erstellen Kinder hier Dinge, die **in der echten Welt existieren**:
+Kinder erstellen Dinge, die **in der echten Welt existieren**:
 
 - Ein Typst-PDF kann per Email an Oma und Opa geschickt werden
 - Eine Website hat eine echte URL, die man Freunden zeigen kann
@@ -132,43 +130,36 @@ Diese Fähigkeit ist **viel wertvoller** als das Beherrschen einer spezifischen 
 
 ## Projektbeispiele
 
-### Phase 1 Projekte
+Was Kinder im Mentoring machen könnten:
+
+### Dokument-Projekte
 - Persönliche Vorstellung als PDF
 - Dokumentation eines Hobbys
 - Technische Anleitung (z.B. Spielregeln)
 - Rezeptsammlung
+- Geschichten oder Tagebücher
 
-### Phase 2 Projekte
+### Web-Projekte
 - Persönliche Website
 - Portfolio-Seite
-- Projekt-Dokumentation als Website
+- Fan-Seite für ein Hobby
 - Kleine Web-App (z.B. To-Do Liste)
 
-## Lerngeschwindigkeit
+### Kreative Projekte
+- Spielanleitungen mit Bildern
+- Präsentationen
+- Was auch immer dein Kind interessiert!
 
-**Wichtig zu wissen:**
+## Jedes Kind ist anders
 
-- Jedes Kind lernt unterschiedlich schnell
-- Es gibt **keinen Druck**, Phase 2 zu erreichen
-- Manche Kinder bleiben bei Phase 1 - und das ist völlig okay!
-- Andere schreiten schneller voran - auch super!
-- Der Kurs passt sich dem Kind an, nicht umgekehrt
+Das Mentoring passt sich deinem Kind an:
 
-:::info Langsame Lerner
-Wenn dein Kind langsam lernt oder bei Phase 1 bleibt:
-- **Das ist vollkommen in Ordnung!**
-- Phase 1 enthält bereits wertvolle Skills
-- Kein Vergleich mit anderen Kindern
-- Qualität vor Geschwindigkeit
-:::
+- Manche Kinder arbeiten intensiv an einem Thema
+- Andere erkunden viele verschiedene Bereiche
+- Manche brauchen viel Anleitung, andere wenig
+- Es gibt kein "richtig" oder "falsch"
 
-:::info Schnelle Lerner
-Wenn dein Kind schnell voranschreitet:
-- **Super! Lass es im eigenen Tempo lernen**
-- Phase 2 bietet genug Herausforderung
-- Individuelle Projekte möglich
-- Fortgeschrittene Themen auf Anfrage
-:::
+**Das Wichtigste:** Dein Kind hat Spaß und lernt etwas, das es interessiert.
 
 ## Nächste Schritte
 

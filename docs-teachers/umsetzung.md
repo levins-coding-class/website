@@ -4,23 +4,25 @@ sidebar_position: 7
 
 # Praktische Umsetzung
 
-## Kursstruktur
+## Mögliche Themenbereiche
 
-**Phase 1: Grundlagen (2-3 Monate)**
-1. Git & GitHub Setup
-2. VS Code kennenlernen
-3. Typst-Projekte erstellen
-4. Issues und Discussions nutzen
+Das Mentoring hat keine feste Struktur - was ein Kind lernt, hängt von seinen Interessen ab. Hier sind typische Themenbereiche:
 
-**Phase 2: Web-Entwicklung (variabel)**
-1. Markdown
-2. JSON/YAML
-3. React
-4. Astro
+**Grundlegende Werkzeuge** (die meisten Kinder lernen diese)
+- Git & GitHub Setup
+- VS Code kennenlernen
+- Typst-Projekte erstellen
+- Issues und Discussions nutzen
 
-## Die Ebenen der Programmierung im Kurs
+**Web-Entwicklung** (für interessierte Kinder)
+- Markdown
+- JSON/YAML
+- React
+- Astro
 
-Ein zentrales Konzept dieses Kurses ist, dass Kinder die **verschiedenen Ebenen** verstehen lernen, die zusammenwirken:
+## Die Ebenen der Programmierung im Mentoring
+
+Ein zentrales Konzept im Mentoring ist, dass Kinder die **verschiedenen Ebenen** verstehen lernen, die zusammenwirken:
 
 **Ebene 1: Versionskontrolle (Git)**
 - Wo speichere ich meinen Code?
@@ -55,7 +57,7 @@ Ein zentrales Konzept dieses Kurses ist, dass Kinder die **verschiedenen Ebenen*
 
 ## Asynchrones Lernen
 
-Der Kurs ist bewusst **asynchron** aufgebaut:
+Das Mentoring ist bewusst **asynchron** aufgebaut:
 - Kinder arbeiten in ihrem eigenen Tempo
 - Keine festen Deadlines
 - Individuelle Unterstützung über GitHub

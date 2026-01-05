@@ -106,9 +106,9 @@ Du hast grundsätzlich zwei Möglichkeiten:
 
 ## Meine Empfehlung
 
-**Zum Ausprobieren:** Starte mit der **Cloud-Lösung**. Nach 2-3 Monaten wisst ihr, ob der Kurs passt. Dann könnt ihr immer noch auf dedizierte Hardware wechseln.
+**Zum Ausprobieren:** Starte mit der **Cloud-Lösung**. Nach einer Weile wisst ihr, ob das Mentoring passt. Dann könnt ihr immer noch auf dedizierte Hardware wechseln.
 
-**Langfristig:** Wenn dein Kind definitiv dabei bleibt, spricht einiges für **dedizierte Hardware**:
+**Langfristig:** Wenn dein Kind dabei bleibt, spricht einiges für **dedizierte Hardware**:
 - **Keine Latenz:** Lokale Arbeit fühlt sich direkter und flüssiger an
 - **Deine Daten bleiben bei dir:** Keine Kurs-Daten auf fremden Servern
 - **Euer Rechner bleibt frei:** Irgendwann nervt es, wenn das Kind ständig am Eltern-Computer sitzt

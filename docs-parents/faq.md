@@ -4,13 +4,13 @@ sidebar_position: 6
 
 # Häufig gestellte Fragen (FAQ)
 
-Hier findest du Antworten auf die häufigsten Fragen zum Kurs.
+Hier findest du Antworten auf die häufigsten Fragen zum Mentoring-Programm.
 
 ## Allgemeine Fragen
 
 ### Mein Kind hat keine Programmiererfahrung. Ist das ein Problem?
 
-Nein! Der Kurs startet bei null und erklärt alle Konzepte von Grund auf. Keine Vorkenntnisse erforderlich.
+Nein! Das Mentoring beginnt bei null und ich erkläre alle Konzepte von Grund auf. Keine Vorkenntnisse erforderlich.
 
 ### Wie viel Unterstützung braucht mein Kind?
 
@@ -62,27 +62,27 @@ Ein kompakter All-in-One Computer für ca. 200 EUR mit:
 
 **Wichtig:** Kaufe den **Pi 500+ (mit Plus!)**, nicht den normalen Pi 500. Der Plus hat schnellen NVMe-Speicher statt langsamer SD-Karte.
 
-## Kurs-Fragen
+## Fragen zum Mentoring
 
-### Wie lange dauert der Kurs?
+### Wie lange dauert das Mentoring?
 
-Der Kurs ist auf **6-12 Monate** angelegt, kann aber nach Bedarf verlängert werden. Es gibt keine festen Endtermine.
+Das Mentoring ist **open-ended** - es gibt keine feste Laufzeit. Es läuft so lange, wie es für dein Kind sinnvoll ist. Manche Kinder sind jahrelang dabei, andere nur ein paar Monate. Beides ist völlig in Ordnung.
 
 ### Gibt es Hausaufgaben?
 
-Nicht im klassischen Sinne. Kinder arbeiten an ihren eigenen Projekten in ihrem eigenen Tempo. Es gibt keine Deadlines.
+Nein. Dein Kind arbeitet an seinen eigenen Projekten, wenn es Lust und Zeit hat. Es gibt keine Vorgaben.
 
 ### Gibt es Noten oder Bewertungen?
 
-Nein. Der Kurs ist nicht Teil der Schule und es gibt keine Noten. Der Fokus liegt auf Lernen und Spaß an der Sache.
+Nein. Das Mentoring ist kein Schulunterricht. Es geht ums Lernen und Spaß an der Sache, nicht um Leistungsmessung.
 
 ### Kann mein Kind jederzeit einsteigen?
 
-In der Regel ja. Kontaktiere mich, um zu besprechen, wann der nächste gute Einstiegszeitpunkt ist.
+Ja! Kontaktiere mich einfach und wir finden einen Termin für das Onboarding.
 
 ### Was passiert, wenn mein Kind eine Pause braucht?
 
-Kein Problem! Der Kurs ist flexibel. Wenn dein Kind eine Pause braucht, können wir das jederzeit besprechen.
+Kein Problem! Das Mentoring ist komplett flexibel. Kinder können wochenlange Pausen machen und dann einfach wieder einsteigen.
 
 ## Technische Fragen
 
@@ -151,9 +151,9 @@ Ja. GitHub ist eine professionelle Plattform mit Millionen Nutzern weltweit. All
 
 ## Kosten-Fragen
 
-### Was kostet der Kurs?
+### Was kostet das Mentoring?
 
-Der Kurs selbst ist **komplett kostenlos**. Es fallen keine Kursgebühren an.
+Das Mentoring ist **komplett kostenlos**. Es fallen keine Gebühren an.
 
 ### Welche Kosten entstehen?
 

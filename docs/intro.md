@@ -3,13 +3,13 @@ sidebar_position: 1
 slug: /
 ---
 
-# Willkommen beim Coding-Kurs! 👋
+# Willkommen beim Mentoring! 👋
 
-Herzlich willkommen beim **Coding-Kurs für Kinder**! Hier lernst du, wie man **richtig programmiert** - mit den gleichen Tools, die echte Entwickler jeden Tag benutzen.
+Herzlich willkommen beim **Mentoring-Programm für Kinder**! Hier lernst du, wie man **richtig programmiert** - mit den gleichen Tools, die echte Entwickler jeden Tag benutzen.
 
 ## 🎯 Was erwartet dich?
 
-In diesem Kurs lernst du nicht nur irgendeine Programmiersprache. Du lernst:
+Das hier ist **kein Kurs** mit festem Lehrplan. Du entscheidest, was du lernen und machen willst! Du lernst:
 - **Wie Entwickler wirklich arbeiten** (mit Git, GitHub, VS Code)
 - **Echte Projekte erstellen** (keine Spielzeug-Beispiele!)
 - **Selbstständig Probleme lösen**
@@ -21,17 +21,17 @@ In diesem Kurs lernst du nicht nur irgendeine Programmiersprache. Du lernst:
 
 Du bist neu hier? Super! Schau dir diese Seiten an:
 
-1. **[Kursinhalte](/kurs-inhalte)** - Was lernst du im Kurs?
+1. **[Was du lernen kannst](/kurs-inhalte)** - Welche Themen gibt es?
 2. **[Erste Schritte](#erste-schritte)** - Wie geht es los?
 
 ### Für Eltern
 
-Möchtest du mehr über den Kurs erfahren?
+Möchtest du mehr über das Mentoring erfahren?
 
 - **[Info für Eltern](/info-fuer-eltern)** - Alle Details zu Format, Hardware und Inhalten
 
 :::note Hinweis
-Dieser Kurs richtet sich vorrangig an Kinder, deren Eltern den Kursleiter persönlich kennen (z.B. Klassenkamerad:innen, Kinder aus dem persönlichen Umfeld).
+Das Mentoring richtet sich vorrangig an Kinder, deren Eltern mich (Levin Keller) persönlich kennen (z.B. Klassenkamerad:innen, Kinder aus dem persönlichen Umfeld).
 :::
 
 ## 🛠️ Erste Schritte {#erste-schritte}
@@ -58,13 +58,13 @@ Du brauchst einen **kostenlosen GitHub-Account**:
 Speichere deinen Benutzernamen und dein Passwort gut ab!
 :::
 
-## 📚 Wie funktioniert der Kurs?
+## 📚 Wie funktioniert das Mentoring?
 
-### Asynchrones Lernen
+### Komplett flexibel
 Du arbeitest **in deinem eigenen Tempo**:
 - Keine festen Unterrichtszeiten
 - Keine Hausaufgaben-Deadlines
-- Lerne, wann es dir passt!
+- Arbeite, wann du Lust hast!
 
 ### Hilfe bekommen
 Wenn du nicht weiterkommst:
@@ -78,19 +78,19 @@ Regelmäßig treffen sich alle Schüler:innen:
 - Lerne von anderen
 - Hab Spaß zusammen!
 
-## 🎓 Was lernst du?
+## 🎓 Was kannst du lernen?
 
-### Phase 1: Grundlagen (Start hier!)
+### Grundlagen
 - **Git & GitHub** - Die wichtigsten Tools überhaupt
 - **VS Code** - Deine Entwicklungsumgebung
 - **Typst** - Schöne Dokumente mit Code erstellen
 
-➡️ **[Mehr zu den Kursinhalten](/kurs-inhalte)**
-
-### Phase 2: Web-Entwicklung (Später)
+### Web-Entwicklung (wenn du willst)
 - **React** - Websites programmieren
 - **JSON & YAML** - Datenformate
 - **Astro** - Moderne Website-Entwicklung
+
+➡️ **[Mehr zu den Themen](/kurs-inhalte)**
 
 ## 💡 Wichtig zu wissen
 
