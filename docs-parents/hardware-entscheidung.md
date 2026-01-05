@@ -78,7 +78,7 @@ Du hast grundsätzlich zwei Möglichkeiten:
 2. Auf dem Server läuft ein vollständiger Linux-Desktop mit allen Tools
 3. Dein Kind verbindet sich über **Remote Desktop Protocol (RDP)**
 4. Dein Kind sieht einen vollständigen Desktop, arbeitet dort
-5. Ich kann über VNC für Support auf den Desktop zugreifen
+5. Für Support greife **nur ich** über VNC auf denselben Desktop zu – dein Kind nutzt weiterhin nur RDP
 6. Die Server-Konfiguration ist automatisiert ([Details hier](https://github.com/levins-coding-class/cloud-config))
 
 :::tip Wann diese Option wählen?

@@ -123,13 +123,13 @@ Er konnte bis zu 40 km/h schnell laufen.
 >>>>>>> origin/main (Ben's Version)
 ```
 
-**Anna resolved den Konflikt:**
+**Anna löst den Konflikt:**
 ```typst
 = T-Rex
 Der T-Rex war ein gefährlicher Jäger.
 Er lebte vor 65 Millionen Jahren.
 Er konnte bis zu 40 km/h schnell laufen.
-Seine Zähne waren sehr scharp.
+Seine Zähne waren sehr scharf.
 ```
 
 **Fertig!**
