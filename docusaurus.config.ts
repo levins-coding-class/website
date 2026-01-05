@@ -35,17 +35,45 @@ const config: Config = {
     [
       'classic',
       {
-        docs: {
-          routeBasePath: '/',
-          sidebarPath: './sidebars.ts',
-          editUrl:
-            'https://github.com/levins-coding-class/website/edit/main/',
-        },
+        docs: false, // Disable default docs, we'll use plugins
         blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
       } satisfies Preset.Options,
+    ],
+  ],
+
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'parents',
+        path: 'docs-parents',
+        routeBasePath: 'eltern',
+        sidebarPath: './sidebars-parents.ts',
+        editUrl: 'https://github.com/levins-coding-class/website/edit/main/',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'teachers',
+        path: 'docs-teachers',
+        routeBasePath: 'lehrkraefte',
+        sidebarPath: './sidebars-teachers.ts',
+        editUrl: 'https://github.com/levins-coding-class/website/edit/main/',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'children',
+        path: 'docs-children',
+        routeBasePath: 'schueler',
+        sidebarPath: './sidebars-children.ts',
+        editUrl: 'https://github.com/levins-coding-class/website/edit/main/',
+      },
     ],
   ],
 
@@ -60,9 +88,24 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'parentsSidebar',
+          docsPluginId: 'parents',
           position: 'left',
-          label: 'Kursmaterial',
+          label: 'Für Eltern',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'teachersSidebar',
+          docsPluginId: 'teachers',
+          position: 'left',
+          label: 'Für Lehrkräfte',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'childrenSidebar',
+          docsPluginId: 'children',
+          position: 'left',
+          label: 'Für Schüler:innen',
         },
         {
           href: 'https://github.com/levins-coding-class/website',
@@ -75,15 +118,19 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Kursmaterial',
+          title: 'Dokumentation',
           items: [
             {
-              label: 'Kursinhalte',
-              to: '/kurs-inhalte',
+              label: 'Für Eltern',
+              to: '/eltern/intro',
             },
             {
-              label: 'Info für Eltern',
-              to: '/info-fuer-eltern',
+              label: 'Für Lehrkräfte',
+              to: '/lehrkraefte/intro',
+            },
+            {
+              label: 'Für Schüler:innen',
+              to: '/schueler/intro',
             },
           ],
         },
