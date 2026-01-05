@@ -29,7 +29,7 @@ Viele Kinder-Programmierkurse nutzen visuelle Programmierumgebungen wie Scratch.
 - Viele geben auf, weil sie wieder "von vorne" anfangen müssen
 - Professionelle Entwicklung verwendet **keine** visuellen Block-Systeme
 
-**Mein Ansatz:** Ich starte direkt mit den echten Tools, die professionelle Entwickler täglich nutzen. Die Lernkurve mag am Anfang etwas flacher[^1] sein, aber dein Kind lernt von Anfang an die richtigen Werkzeuge und Arbeitsweisen. Keine Zeit wird verschwendet, alles Gelernte ist direkt auf echte Softwareentwicklung übertragbar.
+**Mein Ansatz:** Ich starte direkt mit den echten Tools, die professionelle Entwickler täglich nutzen. Die Lernkurve mag am Anfang etwas steiler sein, aber dein Kind lernt von Anfang an die richtigen Werkzeuge und Arbeitsweisen. Keine Zeit wird verschwendet, alles Gelernte ist direkt auf echte Softwareentwicklung übertragbar.
 
 ## Navigation
 
@@ -52,5 +52,3 @@ Die einzigen Kosten sind:
 ## Los geht's!
 
 Beginne mit der **Hardware-Entscheidung**, um zu verstehen, welche Option für dich und dein Kind am besten geeignet ist.
-
-[^1]: Eine flache Lernkurve ergibt sich, wenn man trotz hohem Arbeitsaufwand wenig Fortschritt macht, die Komplexität der Aufgabe also hoch ist. Die Steigung der Lernkurve ist also gering und die Kurve sieht "flach" aus. Die wenigsten Leute verstehen das und meistens wird "steile Lernkurve" für schwierig zu lernenden Inhalte verwendet, was logisch keinen Sinn macht.

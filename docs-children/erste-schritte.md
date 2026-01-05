@@ -25,7 +25,7 @@ Programmieren braucht:
 
 ### Welcher Computer?
 
-Deine Eltern haben zwei Möglichkeiten gewählt:
+Deine Eltern haben eine von zwei Möglichkeiten gewählt:
 
 **Option A: Eigener Computer für dich**
 - Zum Beispiel ein Raspberry Pi 500+
