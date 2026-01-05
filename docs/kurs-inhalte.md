@@ -2,20 +2,22 @@
 sidebar_position: 2
 ---
 
-# Kursinhalte
+# Was du lernen kannst
 
-Willkommen beim Coding-Kurs! Hier erfährst du, was du in diesem Kurs lernen wirst.
+Willkommen! Hier erfährst du, was du im Mentoring alles lernen kannst.
 
-## Wie funktioniert der Kurs?
+## Wie funktioniert das Mentoring?
 
-Du arbeitest hauptsächlich **selbstständig** an deinen Projekten. Wenn du Hilfe brauchst, kannst du jederzeit Fragen stellen:
+Du arbeitest an **deinen eigenen Projekten** - was dich interessiert! Wenn du Hilfe brauchst, kannst du jederzeit Fragen stellen:
 - Über **GitHub Issues** (du lernst das gleich am Anfang!)
 - In **Video-Calls** (wenn nötig)
 - In **Gruppen-Sessions** mit anderen Kindern
 
-## Phase 1: Die Grundlagen (für alle)
+**Wichtig:** Es gibt keinen festen Lehrplan. Du entscheidest, was du lernen und machen willst!
 
-In dieser Phase lernst du die wichtigsten Werkzeuge kennen, die Programmierer jeden Tag benutzen!
+## Die Grundlagen
+
+Die meisten Kinder lernen zuerst diese wichtigen Werkzeuge kennen:
 
 ### 1. Git & GitHub 🔧
 
@@ -94,22 +96,18 @@ Das wird dann zu einem schönen PDF!
 - Es ist cooler 😎
 :::
 
-### Projekte in Phase 1
+### Projektideen für den Einstieg
 
-Du wirst interessante Dokumente erstellen, zum Beispiel:
+Du könntest interessante Dokumente erstellen, zum Beispiel:
 - Eine Geschichte oder ein Comic
 - Eine Dokumentation über dein Lieblingshobby
 - Ein Kochbuch
 - Eine Zeitschrift
 - Deine eigenen Ideen!
 
-:::note Ziel von Phase 1
-Du sollst dich mit den wichtigsten Tools vertraut machen und verstehen, wie Programmierer arbeiten.
-:::
+## Web-Entwicklung
 
-## Phase 2: Web-Entwicklung (für Fortgeschrittene)
-
-Wenn du Phase 1 gemeistert hast und schnell vorankommst, kannst du mit Web-Entwicklung starten!
+Wenn du Websites bauen willst, kannst du diese Themen erkunden:
 
 ### 1. Markdown 📝
 
@@ -184,7 +182,7 @@ Astro ist ein modernes Tool, um **superschnelle Websites** zu erstellen!
 - Deine eigene Portfolio-Website bauen
 - Professionelle Web-Projekte umsetzen
 
-### Projekte in Phase 2
+### Projektideen für Websites
 
 - Deine eigene Portfolio-Website
 - Ein kleines Spiel im Browser
@@ -198,8 +196,8 @@ Astro ist ein modernes Tool, um **superschnelle Websites** zu erstellen!
 Jeder lernt in seinem eigenen Tempo!
 :::
 
-- 🐌 **Langsam lernen?** Kein Problem! Du kannst so viel Zeit in Phase 1 verbringen, wie du brauchst.
-- 🚀 **Schnell lernen?** Super! Du kannst schnell zu Phase 2 voranschreiten.
+- 🐌 **Langsam lernen?** Kein Problem! Nimm dir die Zeit, die du brauchst.
+- 🚀 **Schnell lernen?** Super! Du kannst so viel erkunden, wie du willst.
 - 🎯 **Dein Tempo ist perfekt!** Es gibt keine Tests oder Noten. Du lernst, weil es Spaß macht!
 
 ## Wie du Hilfe bekommst
@@ -250,14 +248,12 @@ Regelmäßige Treffen mit allen:
    - Erstelle Projekte, die dich interessieren
    - Sei stolz auf das, was du erschaffst!
 
-## Zeitaufwand
+## Wann und wie viel?
 
-**Empfehlung:** 2-4 Stunden pro Woche
-
-Du kannst aber selbst entscheiden:
-- Mehr lernen, wenn du Lust hast
-- Weniger lernen, wenn du wenig Zeit hast
-- Pausen machen, wenn du eine brauchst
+Du entscheidest selbst:
+- Arbeite, wenn du Lust hast
+- Mach Pausen, wenn du eine brauchst
+- Es gibt keine Mindestzeit und keine Deadlines!
 
 ## Deine Tools
 
@@ -265,7 +261,7 @@ Das brauchst du installiert:
 - ✅ **VS Code** - Deine Entwicklungsumgebung
 - ✅ **Git** - Dein Versionskontrollsystem
 - ✅ **Typst** - Für PDF-Dokumente
-- ✅ **Node.js** - Später für Web-Entwicklung (Phase 2)
+- ✅ **Node.js** - Für Web-Entwicklung (wenn du das machen willst)
 
 Keine Sorge! Die Installation mache ich zusammen mit dir beim Onboarding.
 

@@ -2,26 +2,26 @@
 sidebar_position: 1
 ---
 
-# Willkommen beim Coding-Kurs! 👋
+# Willkommen beim Mentoring! 👋
 
 Herzlich willkommen! Hier lernst du, wie man **richtig programmiert** - mit den gleichen Tools, die echte Entwickler jeden Tag benutzen.
 
 ## 🎯 Was erwartet dich?
 
-In diesem Kurs lernst du nicht nur irgendeine Programmiersprache. Du lernst:
+Das hier ist **kein Kurs** mit festem Lehrplan. Du entscheidest, was du lernen und machen willst! Du lernst:
 - **Wie Entwickler wirklich arbeiten** (mit Git, GitHub, VS Code)
 - **Echte Projekte erstellen** (keine Spielzeug-Beispiele!)
 - **Selbstständig Probleme lösen**
 - **Mit anderen zusammenarbeiten**
 
-## 🚀 Was lernst du?
+## 🚀 Was kannst du lernen?
 
-### Phase 1: Grundlagen (Start hier!)
+### Grundlagen
 - **Git & GitHub** - Die wichtigsten Tools überhaupt
 - **VS Code** - Deine Entwicklungsumgebung
 - **Typst** - Schöne Dokumente mit Code erstellen
 
-### Phase 2: Web-Entwicklung (Später)
+### Web-Entwicklung (wenn du willst)
 - **React** - Websites programmieren
 - **JSON & YAML** - Datenformate
 - **Astro** - Moderne Website-Entwicklung
@@ -39,13 +39,13 @@ Alle Entwickler machen Fehler - jeden Tag! Das ist normal und wichtig fürs Lern
 ### Fragen stellen ist wichtig!
 Es gibt **keine dummen Fragen**. Wenn du etwas nicht verstehst, frag nach!
 
-## 📚 Wie funktioniert der Kurs?
+## 📚 Wie funktioniert das Mentoring?
 
-### Asynchrones Lernen
+### Komplett flexibel
 Du arbeitest **in deinem eigenen Tempo**:
 - Keine festen Unterrichtszeiten
 - Keine Hausaufgaben-Deadlines
-- Lerne, wann es dir passt!
+- Arbeite, wann du Lust hast!
 
 ### Hilfe bekommen
 Wenn du nicht weiterkommst:

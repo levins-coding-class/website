@@ -2,40 +2,49 @@
 sidebar_position: 4
 ---
 
-# Kursformat
+# Das Mentoring-Programm
 
-Wie läuft der Kurs ab? Was erwartet dich und dein Kind?
+Was ist das Mentoring-Programm und was erwartet dich und dein Kind?
 
-## Unterrichtsform
+## Was ist das Mentoring-Programm?
 
-- **Fernmündlicher Unterricht** (Online via Video-Call)
-- **Hauptsächlich asynchron** - Kinder arbeiten in ihrem eigenen Tempo
-- **Onboarding-Sessions** am Anfang zur Einführung
-- **Regelmäßige Gruppen-Sessions** (optional) zum gemeinsamen Lernen
+Dieses Programm ist **kein klassischer Kurs** mit festen Lehrplänen, Laufzeiten oder Abschlüssen. Es ist ein **offenes Mentoring-Angebot**: Dein Kind hat einen Ansprechpartner, wenn es beim Programmieren, Schreiben oder Entwickeln nicht mehr weiterkommt.
+
+**Ich (Levin Keller) bin dabei nur ein Scharnier** - ich verbinde dein Kind mit dem Wissen und den Ressourcen, die es braucht, um seine eigenen Ideen umzusetzen.
+
+## Was macht dein Kind im Mentoring?
+
+Das bestimmt dein Kind selbst! Je nach Interessen kann das sein:
+- **Dokumente erstellen** (mit Typst - ein moderner Word-Ersatz)
+- **Websites bauen** (mit HTML, React, Astro)
+- **Programmieren lernen** (Python, JavaScript, etc.)
+- **Kreative Projekte umsetzen** (Spiele, Geschichten, Dokumentationen)
+- **Technische Fähigkeiten entwickeln** (Git, Terminal, VS Code)
+
+Es gibt keine vorgeschriebenen Inhalte. Was dein Kind lernt und macht, hängt von seinen Interessen ab.
+
+## Wie funktioniert die Betreuung?
+
 - **Asynchrone Kommunikation** über GitHub Issues und Discussions
+- **Video-Calls** nach Bedarf, wenn komplexere Fragen auftauchen
+- **Onboarding-Session** am Anfang zur Einrichtung der Technik
+- **Gruppen-Sessions** (optional) zum Austausch mit anderen Kindern
 
-## Betreuung
+Dein Kind arbeitet in seinem eigenen Tempo und meldet sich, wenn es Hilfe braucht. Ich schaue regelmäßig nach dem Rechten und gebe Feedback.
 
-Der Unterricht wird durch individuelles Feedback auf der GitHub-Plattform begleitet. Kinder können jederzeit Fragen stellen und erhalten zeitnah Rückmeldung.
+## Keine festen Strukturen
 
-## Zeitaufwand
-
-### Empfohlener Zeitaufwand
-- **2-4 Stunden pro Woche** für selbstständiges Arbeiten
-- **1 Stunde** für Gruppen-Sessions (falls stattfindend)
-- Flexibel an den Wochenplan des Kindes anpassbar
-
-### Langfristige Planung
-- Der Kurs ist auf **6-12 Monate** angelegt
-- Kann nach Bedarf verlängert werden
-- Keine festen Endtermine
+- **Keine Laufzeit** - das Mentoring läuft so lange, wie es für dein Kind sinnvoll ist
+- **Keine Deadlines** - dein Kind arbeitet, wann es Lust und Zeit hat
+- **Keine Phasen** - der Lernweg ergibt sich aus den Interessen deines Kindes
+- **Keine Bewertungen** - es geht ums Lernen, nicht ums Benotetwerden
 
 ## Lerngeschwindigkeit
 
-Jedes Kind lernt in seinem eigenen Tempo:
-- **Langsame Lerner:** Fokus bleibt auf Phase 1 - das ist völlig in Ordnung!
-- **Schnelle Lerner:** Können bis zu Phase 2 vordringen
-- **Kein Leistungsdruck:** Der Kurs passt sich dem Kind an
+Jedes Kind ist anders - und das ist gut so:
+- Manche Kinder arbeiten intensiv und regelmäßig
+- Andere machen wochenlange Pausen und kommen dann wieder
+- Beides ist völlig in Ordnung!
 
 ## Pädagogischer Ansatz
 
@@ -103,4 +112,4 @@ Beim Onboarding lernen wir uns kennen und richten alles ein:
 
 ## Nächste Schritte
 
-Lies weiter bei [Lerninhalte](/eltern/lerninhalte), um zu verstehen, was dein Kind im Kurs lernt.
+Lies weiter bei [Mögliche Lerninhalte](/eltern/lerninhalte), um zu sehen, welche Themen dein Kind im Mentoring erkunden könnte.

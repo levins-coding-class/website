@@ -4,21 +4,23 @@ sidebar_position: 3
 
 # Informationen für Eltern
 
-Willkommen beim Coding-Kurs für Kinder! Diese Seite enthält alle wichtigen Informationen zum Kursformat, den Lerninhalten und den technischen Voraussetzungen.
+Willkommen beim Mentoring-Programm für Kinder! Diese Seite enthält alle wichtigen Informationen.
 
-## Kursüberblick
+## Was ist das Mentoring-Programm?
 
-Dieser **kostenlose** Kurs vermittelt Kindern die Grundlagen der Softwareentwicklung auf eine praktische und altersgerechte Weise. Der Fokus liegt auf modernen Entwicklungswerkzeugen und -methoden, die auch in der professionellen Softwareentwicklung verwendet werden.
+Dieses Programm ist **kein klassischer Kurs** mit festen Lehrplänen, Laufzeiten oder Prüfungen. Es ist ein **offenes Mentoring-Angebot**: Dein Kind hat einen Ansprechpartner, wenn es beim Programmieren, Schreiben oder Entwickeln nicht mehr weiterkommt.
 
-### Für wen ist dieser Kurs?
+**Ich (Levin Keller) bin dabei nur ein Scharnier** - ich verbinde dein Kind mit dem Wissen und den Ressourcen, die es braucht, um seine eigenen Ideen umzusetzen. Was dein Kind macht, lernt und entwickelt, ist **komplett individuell** und richtet sich nach den Interessen deines Kindes.
 
-Dieser Kurs richtet sich **vorrangig an Kinder, deren Eltern mich persönlich kennen**. Dazu gehören zum Beispiel:
+### Für wen ist dieses Mentoring?
+
+Das Mentoring richtet sich **vorrangig an Kinder, deren Eltern mich persönlich kennen**. Dazu gehören zum Beispiel:
 
 - Klassenkamerad:innen meiner eigenen Kinder
 - Kinder von Eltern aus meinem persönlichen Umfeld (z.B. aus dem Dorf, in dem ich wohne)
 - Kinder von Freund:innen und Bekannten
 
-Der Kurs ist bewusst als **persönliches Angebot** konzipiert und basiert auf Vertrauen und direktem Kontakt. Dies ermöglicht eine enge Betreuung und individuelle Unterstützung.
+Das Mentoring ist bewusst als **persönliches Angebot** konzipiert und basiert auf Vertrauen und direktem Kontakt. Dies ermöglicht eine individuelle Betreuung.
 
 ### Warum nicht Scratch, Blockly oder ähnliche visuelle Tools?
 
@@ -31,17 +33,16 @@ Viele Kinder-Programmierkurse nutzen visuelle Programmierumgebungen wie Scratch.
 
 **Mein Ansatz:** Ich starte direkt mit den echten Tools, die professionelle Entwickler täglich nutzen. Die Lernkurve mag am Anfang etwas flacher[^1] sein, aber dein Kind lernt von Anfang an die richtigen Werkzeuge und Arbeitsweisen. Keine Zeit wird verschwendet, alles Gelernte ist direkt auf echte Softwareentwicklung übertragbar.
 
-## Kursformat
+## Wie funktioniert das Mentoring?
 
-### Unterrichtsform
-- **Fernmündlicher Unterricht** (Online via Video-Call)
-- **Hauptsächlich asynchron** - Kinder arbeiten in ihrem eigenen Tempo
-- **Onboarding-Sessions** am Anfang zur Einführung
-- **Regelmäßige Gruppen-Sessions** (optional) zum gemeinsamen Lernen
+### Betreuungsform
 - **Asynchrone Kommunikation** über GitHub Issues und Discussions
+- **Video-Calls** nach Bedarf, wenn komplexere Fragen auftauchen
+- **Onboarding-Session** am Anfang zur Einrichtung der Technik
+- **Gruppen-Sessions** (optional) zum Austausch mit anderen Kindern
 
 ### Betreuung
-Der Unterricht wird durch individuelles Feedback auf GitHub-Plattform begleitet. Kinder können jederzeit Fragen stellen und erhalten zeitnah Rückmeldung.
+Dein Kind arbeitet selbstständig an seinen Projekten und meldet sich, wenn es Hilfe braucht. Ich schaue regelmäßig nach dem Rechten und gebe Feedback über GitHub.
 
 ## Hardware-Anforderungen
 
@@ -122,48 +123,36 @@ Falls noch nicht vorhanden, muss vor Kursbeginn installiert werden:
 
 Unterstützung bei der Installation bekommst du beim Onboarding.
 
-## Lerninhalte
+## Mögliche Lerninhalte
 
-### Phase 1: Grundlagen (Start)
-**Dauer: ca. 2-3 Monate** (je nach Lerngeschwindigkeit)
+Was dein Kind lernt, hängt von seinen Interessen ab. Hier sind einige Themenbereiche, die wir erkunden können:
 
-Die Kinder lernen:
-- **Git & GitHub**
-  - Versionskontrolle verstehen
-  - Commits erstellen
-  - Mit einem Repository arbeiten
-  - Issues und Discussions nutzen
+### Grundlegende Werkzeuge
+Fast alle Kinder lernen diese Basis-Tools kennen:
+- **Git & GitHub** - Projekte speichern, teilen, Fragen stellen
+- **VS Code** - Eine professionelle Entwicklungsumgebung
+- **Terminal** - Die Kommandozeile nutzen
 
-- **VS Code**
-  - IDE kennenlernen
-  - Dateien bearbeiten
-  - Terminal nutzen
+### Dokumente erstellen
+- **Typst** - Dokumente mit Code erstellen (moderner Word-Ersatz)
+- Oft ein guter Einstieg, weil Kinder schnell sichtbare Ergebnisse haben
 
-- **Typst**
-  - Dokumente mit Code erstellen
-  - Markup-Sprache verstehen
-  - PDF-Dateien generieren
-  - Als moderner Word-Ersatz
-
-**Ziel dieser Phase:** Die Kinder sollen verstehen, wie man mit modernen Entwicklungswerkzeugen arbeitet und sich selbstständig Hilfe holen kann.
-
-### Phase 2: Web-Entwicklung (Fortgeschritten)
-**Für schnellere Lerner oder nach Phase 1**
-
-Die Kinder lernen:
+### Web-Entwicklung
+Für Kinder, die Websites bauen möchten:
 - **Markdown** - Einfache Textformatierung
-- **JSON** - Datenformate verstehen
-- **YAML** - Konfigurationsdateien
-- **React** - Moderne Web-Entwicklung
-- **Frontend State Management** - Daten in Anwendungen verwalten
-- **Astro** - Statische Websites erstellen
+- **HTML & CSS** - Grundlagen des Webs
+- **React** - Moderne, interaktive Websites
+- **Astro** - Statische Websites und Blogs
 
-## Lerngeschwindigkeit
+### Datenformate
+- **JSON & YAML** - Wie Computer Daten strukturieren
 
-Jedes Kind lernt in seinem eigenen Tempo:
-- **Langsame Lerner:** Fokus bleibt auf Phase 1 - das ist völlig in Ordnung!
-- **Schnelle Lerner:** Können bis zu Phase 2 vordringen
-- **Kein Leistungsdruck:** Der Kurs passt sich dem Kind an
+## Jedes Kind ist anders
+
+Das Mentoring passt sich deinem Kind an:
+- Es gibt **keine Laufzeit** - das Mentoring läuft so lange, wie es sinnvoll ist
+- Es gibt **keine Phasen** - der Lernweg ergibt sich aus den Interessen
+- Es gibt **keinen Druck** - dein Kind arbeitet, wann es Lust hat
 
 ## Pädagogischer Ansatz
 
@@ -182,21 +171,17 @@ Jedes Kind lernt in seinem eigenen Tempo:
 - Vorbereitung auf die echte Entwicklungswelt
 - Skills, die langfristig nützlich sind
 
-## Zeitaufwand
+## Flexibilität
 
-### Empfohlener Zeitaufwand
-- **2-4 Stunden pro Woche** für selbstständiges Arbeiten
-- **1 Stunde** für Gruppen-Sessions (falls stattfindend)
-- Flexibel an den Wochenplan des Kindes anpassbar
-
-### Langfristige Planung
-- Der Kurs ist auf **6-12 Monate** angelegt
-- Kann nach Bedarf verlängert werden
-- Keine festen Endtermine
+Das Mentoring ist **komplett flexibel**:
+- Dein Kind arbeitet, wann es Zeit und Lust hat
+- Es gibt keine Mindest- oder Höchstdauer
+- Pausen sind jederzeit möglich
+- Das Mentoring endet, wenn es nicht mehr passt - ohne Verpflichtungen
 
 ## Kosten
 
-Der Kurs ist **komplett kostenlos**. Es fallen keine Kursgebühren an.
+Das Mentoring ist **komplett kostenlos**. Es fallen keine Gebühren an.
 
 ## Support & Kommunikation
 
@@ -228,13 +213,13 @@ Das Forum ist öffentlich einsehbar - so können auch interessierte Eltern vorab
 ## Häufig gestellte Fragen
 
 ### Mein Kind hat keine Programmiererfahrung. Ist das ein Problem?
-Nein! Der Kurs startet bei null und erklärt alle Konzepte von Grund auf.
+Nein! Das Mentoring beginnt bei null und ich erkläre alle Konzepte von Grund auf.
 
 ### Wie viel Unterstützung braucht mein Kind?
 Am Anfang ist etwas Unterstützung bei der Einrichtung nötig. Danach sollen die Kinder zunehmend selbstständig arbeiten. Hilfe ist aber jederzeit verfügbar.
 
 ### Wir haben nur einen Windows-Computer. Geht das trotzdem?
-WSL 2 funktioniert als Notlösung, ist aber nicht ideal. Ich empfehle stark, einen günstigen Linux-Rechner anzuschaffen (z.B. Raspberry Pi 500+ für ~200 EUR). Die bessere Linux-Unterstützung macht das Lernen deutlich reibungsloser.
+WSL 2 funktioniert als Notlösung, ist aber nicht ideal. Ich empfehle einen günstigen Linux-Rechner (z.B. Raspberry Pi 500+ für ~200 EUR). Die bessere Linux-Unterstützung macht das Arbeiten deutlich reibungsloser.
 
 ### Kann mein Kind auch schneller oder langsamer voranschreiten?
 Absolut! Jedes Kind arbeitet in seinem eigenen Tempo. Es gibt keinen festen Lehrplan mit Deadlines.
@@ -256,12 +241,12 @@ Nein, leider nicht. Tablets (iPad, Android) sind für Programmierung grundsätzl
 
 ## Los geht's!
 
-Wenn du bereit bist, dein Kind anzumelden:
+Wenn du Interesse hast:
 
 1. Stelle sicher, dass die Hardware-Anforderungen erfüllt sind
-2. Bereite den Fernzugriff vor (ich helfe dabei)
-3. Melde dich für ein Onboarding-Gespräch
+2. Kontaktiere mich für ein Onboarding-Gespräch
+3. Wir richten zusammen alles ein
 
-Ich freue mich darauf, dein Kind auf seiner Coding-Reise zu begleiten!
+Ich freue mich darauf, dein Kind zu begleiten!
 
 [^1]: Eine flache Lernkurve ergibt sich, wenn man trotz hohem Arbeitsaufwand wenig Fortschritt macht, die Komplexität der Aufgabe also hoch ist. Die Steigung der Lernkurve ist also gering und die Kurve sieht "flach" aus. Die wenigsten Leute verstehen das und meistens wird "steile Lernkurve" für schwierig zu lernenden Inhalte verwendet, was logisch keinen Sinn macht.
