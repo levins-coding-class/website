@@ -69,7 +69,7 @@ Du brauchst einen **kostenlosen GitHub-Account**:
 3. Folge den Anweisungen
 4. **Wichtig:** Speichere Benutzernamen und Passwort gut ab!
 
-GitHub ist wie ein "sozialer Netzwerk" für Code. Hier speicherst du deine Projekte und kannst mit anderen zusammenarbeiten.
+GitHub ist wie ein "soziales Netzwerk" für Code. Hier speicherst du deine Projekte und kannst mit anderen zusammenarbeiten.
 
 ## 4. Onboarding-Termin 📅
 
