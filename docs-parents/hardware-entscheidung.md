@@ -108,7 +108,12 @@ Du hast grundsätzlich zwei Möglichkeiten:
 
 **Zum Ausprobieren:** Starte mit der **Cloud-Lösung**. Nach 2-3 Monaten wisst ihr, ob der Kurs passt. Dann könnt ihr immer noch auf dedizierte Hardware wechseln.
 
-**Langfristig:** Wenn dein Kind definitiv dabei bleibt, ist **dedizierte Hardware** die bessere Investition (nach ~3 Monaten günstiger als Cloud).
+**Langfristig:** Wenn dein Kind definitiv dabei bleibt, spricht einiges für **dedizierte Hardware**:
+- **Keine Latenz:** Lokale Arbeit fühlt sich direkter und flüssiger an
+- **Deine Daten bleiben bei dir:** Keine Kurs-Daten auf fremden Servern
+- **Euer Rechner bleibt frei:** Irgendwann nervt es, wenn das Kind ständig am Eltern-Computer sitzt
+
+Die Cloud-Lösung bleibt auch langfristig günstig (~84 EUR/Jahr) – es geht also nicht primär ums Geld, sondern um Komfort und Unabhängigkeit.
 
 **Hybrid:** Ihr könnt auch mit Cloud starten und nach einigen Monaten auf eigene Hardware umsteigen.
 
